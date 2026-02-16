@@ -1,7 +1,54 @@
 import fs from 'fs'
 import path from 'path'
+import { fileURLToPath } from 'url'
 import matter from 'gray-matter'
 import Link from 'next/link'
+
+// ESM compatibility
+const __filename = fileURLToPath(import.meta.url)
+const __dirname = path.dirname(__filename)
+
+export async function generateMetadata({ params }) {
+  const { slug } = await params
+  const postsDir = path.join(__dirname, '..', '..', '..', 'content', 'blog')
+  const fullPath = path.join(postsDir, `${slug}.md`)
+  
+  const samplePosts = {
+    'autoprogression-future-of-hypertrophy': { title: 'Why Autoprogression is the Future of Hypertrophy Training', excerpt: 'Traditional linear progression is inefficient. Auto-regulation and autoprogression could double your gains.', date: '2026-02-14' },
+    'volume-equivalence-principle': { title: 'The Volume Equivalence Principle: Myth or Science?', excerpt: 'Does it really matter how you split your volume? A deep dive into the research on mechanical tension and metabolic stress.', date: '2026-02-13' },
+    'protein-timing-myth': { title: 'Protein Timing: What the Science Actually Says', excerpt: 'The anabolic window is much larger than you think. Here\'s what matters for muscle protein synthesis.', date: '2026-02-12' }
+  }
+  
+  let frontmatter = { title: 'Post not found', excerpt: '' }
+  
+  if (samplePosts[slug]) {
+    frontmatter = samplePosts[slug]
+  } else if (fs.existsSync(postsDir) && fs.existsSync(fullPath)) {
+    const fileContents = fs.readFileSync(fullPath, 'utf8')
+    const { data } = matter(fileContents)
+    frontmatter = { title: data.title, excerpt: data.excerpt || '' }
+  }
+  
+  return {
+    title: `${frontmatter.title} | Jacked`,
+    description: frontmatter.excerpt,
+    openGraph: {
+      title: frontmatter.title,
+      description: frontmatter.excerpt,
+      type: 'article',
+      url: `https://jacked-blog.vercel.app/blog/${slug}`,
+      siteName: 'Jacked',
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: frontmatter.title,
+      description: frontmatter.excerpt,
+    },
+    alternates: {
+      canonical: `https://jacked-blog.vercel.app/blog/${slug}`,
+    },
+  }
+}
 
 export async function generateStaticParams() {
   const postsDir = path.join(__dirname, '..', '..', '..', 'content', 'blog')

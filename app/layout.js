@@ -3,6 +3,23 @@ import Link from 'next/link'
 export const metadata = {
   title: 'Jacked | Science-Based Fitness',
   description: 'The science of optimal muscle building. Evidence-based insights for maximizing hypertrophy.',
+  openGraph: {
+    title: 'Jacked | Science-Based Fitness',
+    description: 'The science of optimal muscle building. Evidence-based insights for maximizing hypertrophy.',
+    url: 'https://jacked-blog.vercel.app',
+    siteName: 'Jacked',
+    locale: 'en_US',
+    type: 'website',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Jacked | Science-Based Fitness',
+    description: 'The science of optimal muscle building. Evidence-based insights for maximizing hypertrophy.',
+  },
+  robots: {
+    index: true,
+    follow: true,
+  },
 }
 
 export default function RootLayout({ children }) {

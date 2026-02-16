@@ -1,7 +1,12 @@
 import Link from 'next/link'
 import fs from 'fs'
 import path from 'path'
+import { fileURLToPath } from 'url'
 import matter from 'gray-matter'
+
+// ESM compatibility
+const __filename = fileURLToPath(import.meta.url)
+const __dirname = path.dirname(__filename)
 
 // Get posts at build time
 export function getPosts() {
