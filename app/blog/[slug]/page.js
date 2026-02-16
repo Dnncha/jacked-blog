@@ -4,7 +4,7 @@ import matter from 'gray-matter'
 import Link from 'next/link'
 
 export async function generateStaticParams() {
-  const postsDir = path.join(process.cwd(), 'content', 'blog')
+  const postsDir = path.join(__dirname, '..', '..', '..', 'content', 'blog')
   
   if (!fs.existsSync(postsDir)) {
     return [
@@ -24,7 +24,7 @@ export async function generateStaticParams() {
 
 export default async function BlogPost({ params }) {
   const { slug } = await params
-  const postsDir = path.join(process.cwd(), 'content', 'blog')
+  const postsDir = path.join(__dirname, '..', '..', '..', 'content', 'blog')
   const fullPath = path.join(postsDir, `${slug}.md`)
   
   let content = ''

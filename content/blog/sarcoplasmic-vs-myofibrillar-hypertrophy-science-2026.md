@@ -1,7 +1,7 @@
 ---
 title: "Sarcoplasmic vs Myofibrillar Hypertrophy: What Science Actually Says"
 date: "2026-02-16"
-excerpt: "The age-old bodybuilding debate finally answered with 2025 research. Does "pump training" actually build different muscle than heavy lifting?"
+excerpt: "The age-old bodybuilding debate finally answered with 2025 research. Does pump training actually build different muscle than heavy lifting?"
 ---
 
 You've probably heard it in every gym: *"Bodybuilders are bigger but weaker because they train for sarcoplasmic hypertrophy, bro."* It's one of fitness's most persistent myths—but what does the science actually say?
