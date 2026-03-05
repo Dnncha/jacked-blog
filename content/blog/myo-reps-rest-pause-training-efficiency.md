@@ -1,6 +1,5 @@
 ---
 title: "Myo Reps & Rest-Pause Training: The Science of Efficient Hypertrophy"
-date: "2026-02-16"
 excerpt: "Discover how Myo-reps and rest-pause training can help you build muscle in less time, backed by peer-reviewed research and practical application guidelines."
 ---
 
@@ -141,3 +140,7 @@ If you've been stuck in a hypertrophy plateau or simply want to maximize your ga
 1. Prestes J, et al. Strength and Muscular Adaptations After 6 Weeks of Rest-Pause vs. Traditional Multiple-Sets Resistance Training in Trained Subjects. *J Strength Cond Res.* 2019 Jul;33(7S):S113-S121.
 
 2. Research on acute growth hormone responses to high-volume, short-rest training. *Research Quarterly for Exercise and Sport.*
+
+---
+
+*Track your rest-pause training with Jacked. Download now.*

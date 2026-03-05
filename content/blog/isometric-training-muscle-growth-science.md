@@ -1,6 +1,5 @@
 ---
 title: "Isometric Training: The Science Behind Static Strength and Muscle Growth"
-date: "2026-02-15"
 excerpt: "Isometric training isn't just holding planks—it builds serious strength and tendon resilience. Here's what the research says about incorporating isometrics into your hypertrophy training."
 ---
 
@@ -151,3 +150,7 @@ Start adding 2-3 isometric elements to your weekly routine. Your muscles—and y
 [3] Oranchuk, D. J., et al. (2019). Isometric Training for Muscular Strength and Tendon Resilience. Mountain Tactical Institute Research Review (2025).
 
 [4] Rutherford, O. M., & Jones, D. A. (1986). The role of learning and coordination in strength training. European Journal of Applied Physiology.
+
+---
+
+*Track your isometric training with Jacked. Download now.*

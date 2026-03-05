@@ -1,6 +1,5 @@
 ---
 title: "The Science of Training Frequency: What the 2025 Research Actually Says"
-date: "2026-02-15"
 excerpt: "A new meta-analysis reveals surprising insights about how often you should train each muscle group for maximum growth—and it's not what most people think."
 ---
 
@@ -80,3 +79,7 @@ The best training program is one you can stick to consistently. If you can only 
 **References:**
 - Pelland JC et al. (2025). The Resistance Training Dose Response: Meta-Regressions Exploring the Effects of Weekly Volume and Frequency on Muscle Hypertrophy and Strength Gains. *Sports Medicine*. https://pubmed.ncbi.nlm.nih.gov/41343037/
 - Schoenfeld BJ, Ogborn D, Krieger JW (2017). Dose-response relationship between weekly resistance training volume and increases in muscle mass: a systematic review and meta-analysis. *J Sports Sci*.
+
+---
+
+*Track your training frequency with Jacked. Download now.*

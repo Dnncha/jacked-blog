@@ -1,6 +1,5 @@
 ---
 title: "Metabolic Stress vs Mechanical Tension: The Real Drivers of Muscle Growth"
-date: "2026-02-14"
 excerpt: "Scientists debate what actually causes muscles to grow. The answer matters for your training programming."
 ---
 
@@ -82,3 +81,7 @@ The optimal approach: heavy progressive overload as your foundation, with strate
 - [Schoenfeld BJ. The mechanisms of muscle hypertrophy and their application to resistance training. J Strength Cond Res. 2010.](https://pubmed.ncbi.nlm.nih.gov/20300012/)
 - [Morton RW et al. A systematic review, meta-analysis and meta-regression of the effect of protein supplementation on resistance training-induced gains in muscle mass and strength in healthy adults. Br J Sports Med. 2018.](https://pubmed.ncbi.nlm.nih.gov/29330614/)
 - [Kruse NT et al. Meta-analysis of the Effects of Blood Flow Restriction Training on Hypertrophy. J Sport. 2024 Rehabil.](https://pubmed.ncbi.nlm.nih.gov/38289567/)
+
+---
+
+*Track your metabolic stress with Jacked. Download now.*

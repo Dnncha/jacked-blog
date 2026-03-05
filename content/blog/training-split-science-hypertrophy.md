@@ -1,6 +1,5 @@
 ---
 title: "The Science of Training Splits: Which One Actually Works Best for Muscle Growth?"
-date: "2026-02-15"
 excerpt: "Full body, upper/lower, PPL, or bro split? We break down the research on training frequency and volume to find the optimal split for hypertrophy."
 ---
 
@@ -168,3 +167,7 @@ Pick the split that fits your schedule, stick with it, progress gradually, and t
 - Schoenfeld BJ, et al. "Resistance Training Frequency and Muscle Hypertrophy: A Meta-Analysis." *British Journal of Sports Medicine* (2022)
 - Mortensen A, et al. "Muscle Protein Synthesis After Protein Ingestion." *Journal of Physiology* (2023)
 - Helm M, et al. "Dose-Response Relationship Between Training Volume and Hypertrophy." *Sports Medicine* (2024)
+
+---
+
+*Track your training split with Jacked. Download now.*

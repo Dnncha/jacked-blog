@@ -1,6 +1,5 @@
 ---
 title: "RPE vs RIR vs Percentage-Based Training: The 2025 Science of Auto-Regulation"
-date: "2026-02-15"
 excerpt: "A 2025 network meta-analysis reveals which auto-regulation method actually builds the most strength—and why traditional percentage-based training might be holding you back."
 ---
 
@@ -126,3 +125,7 @@ Your body is constantly sending you signals. Learning to listen to them isn't ju
 3. Helms et al. (2022). "RPE vs. RIR: The complete guide." *MASS Research Review*.
 
 4. Brzycki, M. (1998). "A practical approach to strength training." *McGraw-Hill*.
+
+---
+
+*Track your RPE with Jacked. Download now.*

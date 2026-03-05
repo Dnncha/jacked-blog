@@ -1,6 +1,5 @@
 ---
 title: "Protein Optimization: What the 2024-2025 Research Says About Maximizing Muscle Growth"
-date: "2026-02-14"
 excerpt: "New studies reveal optimal protein intake amounts, meal timing strategies, and the leucine threshold that triggers muscle protein synthesis."
 ---
 
@@ -106,3 +105,7 @@ Your muscles need protein to grow. Give them what they need, consistently, and t
 - Identification of a leucine-mediated threshold effect (2024). *PMC11448845*
 - Jäger et al. (2017). International Society of Sports Nutrition position stand: diets and body composition. *J Int Soc Sports Nutr*. PMID: 28615996
 - Examine.com Optimal Protein Intake Guide (2025)
+
+---
+
+*Track your protein optimization with Jacked. Download now.*

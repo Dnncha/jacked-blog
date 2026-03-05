@@ -1,6 +1,5 @@
 ---
 title: "Exercise Order Science: Does Pre-Exhaustion Actually Work?"
-date: "2026-02-15"
 excerpt: "The pre-exhaustion method—doing isolation exercises before compound movements—has been a bodybuilding staple for decades. But does the science actually support it?"
 ---
 
@@ -128,3 +127,7 @@ Save the leg extensions for after your squats. Your muscles—and your strength 
 2. de Lima Junior J, et al. (2022). Pre-exhaustion Training, a Narrative Review of the Acute Responses and Chronic Adaptations. *International Journal of Exercise Science*, 15(3):507-531.
 
 3. Fisher JP, Steele J, Smith D. (2017). Pre-exhaustion vs. post-exhaustation strategies: Effects on muscle activation and performance. *Journal of Strength and Conditioning Research*.
+
+---
+
+*Track your pre-exhaustion workouts with Jacked. Download now.*

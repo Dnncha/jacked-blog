@@ -1,6 +1,5 @@
 ---
 title: "The Load Debate Revisited: What 2025-2026 Research Really Says About Building Muscle"
-date: "2026-02-15"
 excerpt: "New research reveals that proximity to failure matters more than load for hypertrophy, but there's a catch. Here's what the latest science tells us about optimizing your training."
 ---
 
@@ -86,3 +85,7 @@ Train hard, track your proximity to failure, and focus on progressive challenge 
 [5] Similar muscle hypertrophy following eight weeks of resistance training to momentary muscular failure or with repetitions-in-reserve in resistance-trained individuals. *PubMed*. 2024.
 
 [6] Influence of Varying Proximity-to-Failure on Muscular Adaptations and Repetitions-in-Reserve Estimation Accuracy in Resistance-Trained Individuals. *Journal of Science in Sport and Exercise*. 2025.
+
+---
+
+*Track your proximity to failure with Jacked. Download now.*

@@ -1,6 +1,5 @@
 ---
 title: "The Gut-Muscle Axis: How Your Microbiome Affects Muscle Growth"
-date: "2026-02-15"
 excerpt: "What happens in your gut doesn't stay in your gut — it directly influences your ability to build muscle. Emerging research reveals a powerful gut-muscle connection that could revolutionize how you train and eat."
 ---
 
@@ -121,3 +120,7 @@ The science is still evolving, but the gut-muscle connection is one of the most 
 - Ticinesi et al. (2024). Gut microbiota and muscle mass: the role of probiotics. Journal of Cachexia, Sarcopenia and Muscle.
 - Validation of Exercise-Induced Muscle Damage and Probiotic Supplementation (2025). Sports Medicine meta-analysis.
 - Nutrient Absorption and the Microbiome (2025). Current Opinion in Clinical Nutrition and Metabolic Care.*
+
+---
+
+*Track your gut health with Jacked. Download now.*

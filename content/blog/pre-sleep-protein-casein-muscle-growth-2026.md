@@ -1,6 +1,5 @@
 ---
 title: "Pre-Sleep Protein: The Overnight Muscle Building Secret"
-date: "2026-02-15"
 excerpt: "Science shows 20-40g of casein 30 minutes before bed can boost overnight muscle protein synthesis by up to 22%. Here's how to optimize your nighttime nutrition for maximum muscle growth."
 ---
 
@@ -90,3 +89,7 @@ Skip the late-night snack overload. Skip the complicated protocols. Just have 30
 - Reis, C.E.G., et al. (2021). Effects of pre-sleep protein consumption on muscle-related outcomes. *Journal of Science and Medicine in Sport*, 24(2), 177-182.
 - Res, P.T., et al. (2012). Protein ingestion before sleep improves postexercise overnight recovery. *Medicine and Science in Sports and Exercise*, 44(8), 1560-1569.
 - Snijders, T., et al. (2019). Casein protein supplementation with 30g before sleep. *Journal of Cachexia, Sarcopenia and Muscle*, 10(2), 402-411.
+
+---
+
+*Track your pre-sleep protein with Jacked. Download now.*

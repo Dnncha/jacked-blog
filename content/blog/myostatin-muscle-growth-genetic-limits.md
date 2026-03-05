@@ -1,6 +1,5 @@
 ---
 title: "Myostatin and Muscle Growth: Breaking Through Genetic Limits"
-date: "2026-02-16"
 excerpt: "New research on myostatin inhibition could revolutionize how we think about muscle building ceilings. Here's what the science says and what it means for regular lifters."
 ---
 
@@ -79,3 +78,7 @@ Myostatin is real, and it does limit muscle growth. But the same training princi
 - UConn Today (2025). "Next Generation of Weight Loss Drugs"
 - MDPI (2025). "Myostatin Modulation in Spinal Muscular Atrophy"
 - Regeneron COURAGE Trial (2025-2026)
+
+---
+
+*Track your genetic potential with Jacked. Download now.*

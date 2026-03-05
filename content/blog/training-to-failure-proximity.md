@@ -1,6 +1,5 @@
 ---
 title: "Training to Failure: What Science Says About Proximity to Failure"
-date: "2026-02-14"
 excerpt: "New meta-analysis reveals training closer to failure helps muscle growth but isn't necessary for strength gains. Here's what the research means for your training."
 ---
 
@@ -86,3 +85,7 @@ For muscle growth, don't be afraid to push close to failure. The research sugges
 [1] Robinson ZP, Pelland JC, Refalo MC, Jukic I, Steele J, Zourdos MC. "Exploring the Dose-Response Relationship Between Estimated Resistance Training Proximity to Failure, Strength Gain, and Muscle Hypertrophy: A Series of Meta-Regressions." *Sports Medicine*. 2024.
 
 [2] "Without Fail: Muscular Adaptations in Single-Set Resistance Training Performed to Failure or with Repetitions-in-Reserve." *Medicine & Science in Sports & Exercise*. September 2025.
+
+---
+
+*Track your training with Jacked. Download now.*

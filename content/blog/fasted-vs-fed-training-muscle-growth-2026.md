@@ -1,6 +1,5 @@
 ---
 title: "Fasted vs Fed Training: What the Science Actually Says About Muscle Growth"
-date: "2026-02-15"
 excerpt: "Does training fasted burn more fat or muscle? A 2025 meta-analysis reveals the surprising truth about fasted versus fed training for hypertrophy and performance."
 ---
 
@@ -103,3 +102,7 @@ The best workout is the one you can sustain consistently—with good form, adequ
 6. PubMed. (2018). Fasted training and cortisol response in women.
 7. MDPI. (2017). Acute effects of fasted exercise on muscle protein breakdown.
 8. Frontiers in Nutrition. (2024). Timing matters? The effects of protein diet timing on body composition and performance.
+
+---
+
+*Track your nutrition timing with Jacked. Download now.*

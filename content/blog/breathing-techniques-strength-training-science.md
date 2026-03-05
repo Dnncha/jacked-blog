@@ -1,6 +1,5 @@
 ---
 title: "Breathing Techniques for Maximum Strength: The Science of Intra-Abdominal Pressure"
-date: "2026-02-16"
 excerpt: "The Valsalva maneuver, breath holding, and breathing patterns - what the research actually shows about how to breathe for maximum lifts."
 ---
 
@@ -159,3 +158,7 @@ Your breath is your foundation. Build on it correctly.
 3. Ratamess NA, et al. American College of Sports Medicine position stand: Progression models in resistance training for healthy adults. *Medicine and Science in Sports and Exercise*. 2021.
 
 4. Convertino VA. Physiological effects of the Valsalva maneuver. *Sports Medicine*. 2021.
+
+---
+
+*Let Jacked track your breathing and training. Download now.*

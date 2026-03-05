@@ -1,6 +1,5 @@
 ---
 title: "The Science of Protein Distribution: How Often Should You Eat Protein?"
-date: "2026-02-15"
 excerpt: "New research confirms what athletes have long suspected: spreading your protein intake evenly throughout the day maximizes muscle protein synthesis by up to 25%. Here's the science behind optimal protein distribution."
 ---
 
@@ -81,3 +80,7 @@ This simple strategy—keeping your protein intake consistent throughout the day
 2. Paddon-Jones D, et al. "Dietary Protein Distribution Positively Influences 24-h Muscle Protein Synthesis." *Journal of Nutrition* (2014)
 3. Morton RW, et al. "A Systematic Review, Meta-Analysis and Meta-Regression of the Effect of Protein Supplementation on Resistance Training-Induced Gains in Muscle Mass and Strength in Healthy Adults." *British Journal of Sports Medicine* (2018)
 4. Wolfe RR. "The Underappreciated Role of Muscle in Human Metabolism." *American Journal of Clinical Nutrition* (2006)
+
+---
+
+*Track your protein distribution with Jacked. Download now.*

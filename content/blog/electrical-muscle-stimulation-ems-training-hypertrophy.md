@@ -1,6 +1,5 @@
 ---
 title: "Electrical Muscle Stimulation: The Science Behind EMS Training for Hypertrophy"
-date: "2026-02-15"
 excerpt: "New research reveals how electrical muscle stimulation can complement traditional training for accelerated muscle growth."
 ---
 
@@ -70,3 +69,7 @@ The key is treating EMS as a tool in your toolbox, not a replacement for progres
 [3] PMC (2018). Electromyostimulation to fight atrophy and to build muscle: facts and numbers.
 
 [4] PMC (2023). Effect of 8-week frequency-specific electrical muscle stimulation combined with resistance exercise training on muscle mass, strength, and body composition.
+
+---
+
+*Track your training with Jacked. Download now.*

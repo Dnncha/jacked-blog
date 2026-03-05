@@ -1,6 +1,5 @@
 ---
 title: "Alcohol and Muscle Growth: The Science Behind Why Drinking Sabotages Your Gains"
-date: "2026-02-16"
 excerpt: "Research shows alcohol consumption significantly impairs muscle protein synthesis, disrupts the mTOR pathway, and damages sleep quality—三大因素 that can erase your training gains. Here's what the science says."
 ---
 
@@ -46,6 +45,15 @@ If you're going to drink, timing matters:
 
 Some evidence suggests that consuming protein alongside alcohol may partially mitigate the damage. A 2016 study found that "protein coingestion with alcohol following strenuous exercise attenuates alcohol-induced intramyocellular apoptosis and inhibition of autophagy" [6]. But this is mitigation, not elimination—your gains still suffer.
 
+## Recovery Strategy
+{{recovery-pyramid}}
+
+## Muscle Protein Synthesis Timeline
+{{mps-timeline}}
+
+## Training vs Recovery
+{{stress-balance}}
+
 ## Practical Recommendations
 
 Based on the current evidence:
@@ -76,3 +84,7 @@ Your muscles don't care about your social life. If muscle growth is your priorit
 [5] Lang CH, et al. "Alcohol impairs leucine-mediated phosphorylation of 4E-BP1, S6K1, eIF4G, and mTOR in skeletal muscle." American Journal of Physiology. 2003.
 
 [6] "Protein coingestion with alcohol following strenuous exercise attenuates alcohol-induced intramyocellular apoptosis and inhibition of autophagy." American Journal of Physiology-Endocrinology and Metabolism. 2016.
+
+---
+
+*Track your muscle growth with Jacked. Download now.*

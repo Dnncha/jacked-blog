@@ -1,6 +1,5 @@
 ---
 title: "Light Weights vs Heavy Weights: The 2025 Research That Changes Everything"
-date: "2026-02-14"
 excerpt: "New study reveals training to failure bridges the gap between light and heavy loads—does load even matter for muscle growth?"
 ---
 

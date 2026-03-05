@@ -1,6 +1,5 @@
 ---
 title: "mTOR Activation: The Science Behind Your Muscle-Building Switch"
-date: "2026-02-15"
 excerpt: "2025-2026 research reveals exactly how much protein triggers maximum muscle growth through the mTOR pathway—and why leucine is your anabolic trigger."
 ---
 
@@ -96,3 +95,7 @@ mTOR is the master switch for muscle growth, and leucine is the key that activat
 5. **Don't fear carbs and fats**—they don't suppress mTOR and insulin helps
 
 Understanding the science behind mTOR lets you stop guessing and start optimizing. Your muscles are waiting for the signal—give them what they need.
+
+---
+
+*Track your mTOR with Jacked. Download now.*

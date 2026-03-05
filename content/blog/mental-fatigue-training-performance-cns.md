@@ -1,6 +1,5 @@
 ---
 title: "Mental Fatigue Is Killing Your Gains: The Science of CNS Exhaustion"
-date: "2026-02-16"
 excerpt: "Your central nervous system might be holding you back more than your muscles. New research reveals how mental fatigue sabotages training performance and what you can do about it."
 ---
 
@@ -144,3 +143,7 @@ The gap between where you are and what you're capable of isn't always muscle. So
 6. International Journal of Sports Physiology and Performance. (2025). "Caffeine offset of cognitive fatigue."
 
 7. Phytomedicine. (2024). "Rhodiola Rosea and perceived exertion in fatigue states."
+
+---
+
+*Track your mental fatigue with Jacked. Download now.*

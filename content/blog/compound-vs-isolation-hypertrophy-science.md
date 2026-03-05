@@ -1,6 +1,5 @@
 ---
 title: "Compound vs Isolation Exercises for Hypertrophy: What the Science Actually Says"
-date: "2026-02-15"
 excerpt: "The great debate in muscle building—compound movements versus isolation exercises. We break down the research to find what actually works best for maximizing muscle growth."
 ---
 
@@ -115,3 +114,7 @@ Remember: consistency, progressive overload, and training to near-failure matter
 - Burke, et al. (2024). Exercise-related changes in lower-body regional muscle development. *Research*.
 - Gentil, et al. (2015). Comparison of wide-grip lat pulldown to dumbbell curl. *PMC*.
 - Mannarino, et al. (2019). Underhand dumbbell rows vs dumbbell curls. *PubMed*.
+
+---
+
+*Track your compound and isolation exercises with Jacked. Download now.*

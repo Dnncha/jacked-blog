@@ -1,6 +1,5 @@
 ---
 title: "Citrulline Malate: The Pre-Workout Supplement That Actually Works"
-date: "2026-02-15"
 excerpt: "Backed by real science—citrulline malate increases reps, reduces soreness, and improves blood flow. Here's what the research says about dosing and timing."
 ---
 
@@ -97,3 +96,7 @@ Citrulline malate is one of the few supplements where the evidence actually matc
 
 1. Pérez-Guisado, J., & Jakeman, P. (2010). Citrulline malate enhances athletic anaerobic performance and relieves muscle soreness. *Journal of Strength and Conditioning Research*.
 2. Grannes et al. (2026). Acute effect of citrulline malate on flow-mediated dilation and serum pharmacodynamics in healthy young males. *Frontiers in Physiology*.
+
+---
+
+*Track your pre-workout with Jacked. Download now.*

@@ -1,6 +1,5 @@
 ---
 title: "Omega-3 Fatty Acids and Muscle Growth: What the Science Says"
-date: "2026-02-15"
 excerpt: "Can fish oil supplements actually help you build more muscle? A look at the 2024-2025 research on omega-3s and resistance training."
 ---
 
@@ -77,3 +76,7 @@ Think of them as one piece of a larger puzzle—potentially helpful, certainly n
 3. Effects of Omega-3 Fatty Acids on Muscle Mass, Muscle Strength and Muscle Performance among the Elderly: A Meta-Analysis. *PubMed*. 2020;33291698.
 
 4. Omega-3 supplementation combined with strength training on neuro-biomarkers and inflammatory responses. *PMC*. 2025.
+
+---
+
+*Track your omega-3 with Jacked. Download now.*

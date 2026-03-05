@@ -1,6 +1,5 @@
 ---
 title: "Taurine: The Forgotten Amino Acid That's Secretly a Training powerhouse"
-date: "2026-02-16"
 excerpt: "While creatine and caffeine get all the glory, taurine is quietly backed by solid science for performance, recovery, and even muscle building. Here's what the research actually says."
 ---
 
@@ -124,3 +123,7 @@ At $0.10-0.20 per dose, it's also ridiculously cheap — especially compared to 
 2. "The effect of taurine supplementation on markers of muscle damage and muscle pain in an athletic population" — ScienceDirect, 2025
 3. "Taurine Supplementation and Human Heat Tolerance" — Nutrients, 2026
 4. "Taurine in sports and exercise" — Journal of the International Society of Sports Nutrition, 2024
+
+---
+
+*Track your taurine supplementation with Jacked. Download now.*

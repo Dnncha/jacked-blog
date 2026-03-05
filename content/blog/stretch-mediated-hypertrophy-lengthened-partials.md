@@ -1,6 +1,5 @@
 ---
 title: "The Lengthened Partial Revolution: How Training in the Stretched Position Maximizes Muscle Growth"
-date: "2026-02-14"
 excerpt: "New research reveals that where you train within your range of motion matters more than previously thought. Here's what the science says about stretch-mediated hypertrophy."
 ---
 
@@ -91,3 +90,7 @@ The "stretched position revolution" doesn't mean abandoning everything you know 
 2. Hirono, T. et al. (2025). "Mechanisms of Stretch-Mediated Hypertrophy." *Sports Medicine Open*.
 3. Vigotsky, A.D., et al. (2017). "Role of Muscle Architecture in Hypertrophy." *Frontiers in Physiology*.
 4. Bello, et al. (2025). "Light vs. Heavy Loads for Muscle Thickness." *British Journal of Sports Medicine*.
+
+---
+
+*Track your stretch-mediated hypertrophy with Jacked. Download now.*

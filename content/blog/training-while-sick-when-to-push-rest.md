@@ -1,6 +1,5 @@
 ---
 title: "Training While Sick: When to Push and When to Rest"
-date: "2026-02-16"
 excerpt: "The common cold vs. flu, the neck check rule, and how to modify your training when under the weather without derailing your gains."
 ---
 
@@ -115,3 +114,7 @@ Your immune system is your greatest asset as a lifter—protect it, and it'll pr
 - "Effects of Exercise on Immune Function" (Gatorade Sports Science Institute)
 - USA Triathlon: The Neck Rule
 - Houston Methodist: "Is It OK to Exercise When You're Sick?" (2025)
+
+---
+
+*Track your training with Jacked. Download now.*

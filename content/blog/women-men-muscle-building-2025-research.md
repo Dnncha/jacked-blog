@@ -1,6 +1,5 @@
 ---
 title: "Women and Muscle Building: What the 2025 Science Actually Says"
-date: "2026-02-15"
 excerpt: "A new meta-analysis settles the debate: women build muscle just as effectively as men when you look at relative gains. Here's what the research means for your training."
 ---
 

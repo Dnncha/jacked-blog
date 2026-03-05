@@ -1,6 +1,5 @@
 ---
 title: "Pre-Workout Protein: What Science Actually Says in 2026"
-date: "2026-02-15"
 excerpt: "The debate continues—should you eat protein before or after training? We review the latest 2025-2026 research to separate fact from fitness fiction."
 ---
 
@@ -87,3 +86,7 @@ The real secret? Stop stressing about perfect timing and focus on consistently h
 - Health.com (2025). Is It Better To Have Protein Before or After a Workout?
 - Nutrients (2025). Current Perspectives on Protein Supplementation in Athletes.
 - ISSN Position Stand (2025 Update). Protein and Exercise.
+
+---
+
+*Track your pre-workout protein with Jacked. Download now.*

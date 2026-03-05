@@ -1,6 +1,5 @@
 ---
 title: "Supersets for Hypertrophy: What the Science Actually Says in 2026"
-date: "2026-02-16"
 excerpt: "Recent research reveals supersets can match traditional training for muscle growth while saving 40% of workout time—but there's a catch. Here's what the science says about optimal superset programming."
 ---
 
@@ -91,3 +90,7 @@ The future of efficient hypertrophy training is here—and it's pairing your exe
 [3] Goto et al. (2025). "Metabolic stress and hypertrophy mechanisms." *Sports Medicine Review*.
 
 [4] Men's Health UK (2025). "Lengthened Supersets for 43% More Muscle Growth."
+
+---
+
+*Track your supersets with Jacked. Download now.*

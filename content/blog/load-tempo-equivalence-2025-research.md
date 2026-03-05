@@ -1,6 +1,5 @@
 ---
 title: "The 2025 Science That Changes Everything: Load and Tempo Don't Matter (Almost)"
-date: "2026-02-15"
 excerpt: "New research confirms what recent studies have been suggesting - both load and repetition tempo matter far less than we thought, as long as you train smart."
 ---
 
@@ -121,3 +120,7 @@ Stop stressing about optimal. Start focusing on consistent, effortful training.
 2. Resistance Training Tempo and Hypertrophy: A Systematic Review with Meta-Analysis. *Journal of Strength and Conditioning Research*. 2025.
 
 3. Smart Rabbit Fitness. Strength Training Basics 2026: Force, Hypertrophy and Flexibility. 2026.
+
+---
+
+*Track your load and tempo with Jacked. Download now.*

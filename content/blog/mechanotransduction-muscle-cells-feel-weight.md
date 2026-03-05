@@ -1,6 +1,5 @@
 ---
 title: "How Muscle Cells 'Feel' The Weight: The Science of Mechanotransduction in Hypertrophy"
-date: "2026-02-16"
 excerpt: "Discover how your muscle cells convert mechanical tension into growth signals through mechanosensors—and why this changes how you should train."
 ---
 
@@ -114,3 +113,7 @@ Understanding this process doesn't change the training principles much, but it d
 3. Nature Scientific Reports (2025). "Time-of-day effect of high-intensity muscle contraction on mTOR signaling"
 4. Science Advances. "Unlocking the therapeutic potential of cellular mechanobiology"
 5. Journal of Biomechanics (2025). "Cell biomechanics on muscle atrophy: from intricate mechanisms to therapeutic frontiers"
+
+---
+
+*Track your muscle cells with Jacked. Download now.*

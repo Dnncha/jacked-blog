@@ -1,6 +1,5 @@
 ---
 title: "Eccentric Overload Training: Does It Actually Build More Muscle?"
-date: "2026-02-15"
 excerpt: "The theory sounds perfect — overload the lowering phase to maximize muscle growth. But what does the research actually show? We review the 2025-2026 science."
 ---
 
@@ -88,3 +87,7 @@ When it comes to hypertrophy, the basics still win: train close to failure, prog
 - Douglas et al. (2017). Accentuated eccentric loading in trained rugby players. *PubMed*
 - Eccentric vs. Conentric Meta-analysis (2025). *J Strength Cond Res* 39(1): 115-134
 - ECC+ Protocol (2026). *JMIR Research Protocols*
+
+---
+
+*Track your eccentric training with Jacked. Download now.*

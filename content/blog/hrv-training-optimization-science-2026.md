@@ -1,6 +1,5 @@
 ---
 title: "Heart Rate Variability: The Science of Training by Your Nervous System"
-date: "2026-02-16"
 excerpt: "HRV is emerging as the most objective way to gauge recovery and readiness. Recent research shows HRV-guided training improves performance while reducing overtraining risk."
 ---
 
@@ -103,3 +102,7 @@ For lifters willing to invest 2 minutes each morning in measurement, HRV offers 
 - Nature Scientific Reports (2025). Individual training prescribed by heart rate variability in experienced cyclists.
 - Frontiers in Physiology (2025). Reliability and concurrent validity of HRV devices in athletes.
 - MDPI Applied Sciences (2025). Impact of Prolonged High-Intensity Training on Autonomic Regulation.
+
+---
+
+*Track your HRV with Jacked. Download now.*

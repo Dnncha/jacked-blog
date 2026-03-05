@@ -1,6 +1,5 @@
 ---
 title: "Cold Water Immersion & Muscle Growth: The Science Behind Why Ice Baths Might Be Killing Your Gains"
-date: "2026-02-15"
 excerpt: "New 2025-2026 research reveals cold water immersion may sabotage your muscle growth. Here's what the science actually says about ice baths vs. hypertrophy."
 ---
 
@@ -95,3 +94,7 @@ Save the ice baths for after you've maxed out your genetic muscle-building poten
 - Wang H, Wang L, Pan Y. "Impact of different doses of cold water immersion on recovery from exercise-induced muscle damage." *Frontiers in Physiology*, 2025.
 - "Effects of cold-water immersion at different body regions on post-exercise muscle damage recovery." *Frontiers in Sports and Active Living*, 2026.
 - Roberts LA, et al. "Cold water immersion attenuates anabolic signaling and skeletal muscle fiber hypertrophy." *Journal of Applied Physiology*, 2019.
+
+---
+
+*Track your recovery with Jacked. Download now.*

@@ -1,6 +1,5 @@
 ---
 title: "Mind-Muscle Connection: The Science Behind Thinking Your Way to Bigger Gains"
-date: "2026-02-16"
 excerpt: "Research shows you can increase muscle activation by 12% just by focusing on the muscle you're training. Here's the science and how to apply it."
 ---
 
@@ -98,3 +97,7 @@ Your muscles are listening. You just have to talk to them.
 - Journal of Strength and Conditioning Research (2018): Differential effects of attentional focus strategies during long-term resistance training
 - Journal of Strength and Conditioning Research (2012): Effect of verbal instruction on muscle activity
 - Journal of Sports Sciences (2016): Attentional focus and muscle activation
+
+---
+
+*Track your mind-muscle connection with Jacked. Download now.*

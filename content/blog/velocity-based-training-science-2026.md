@@ -1,6 +1,5 @@
 ---
 title: "Velocity-Based Training: The Science Behind Training Smarter, Not Just Harder"
-date: "2026-02-15"
 excerpt: "Discover how measuring movement speed can revolutionize your progressive overload, optimize fatigue management, and maximize muscle growth without relying on outdated 1RM percentages."
 ---
 

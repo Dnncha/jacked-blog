@@ -1,6 +1,5 @@
 ---
 title: "The Sleep-Muscle Connection: UC Berkeley Scientists Map the Brain's Growth Hormone Switch"
-date: "2026-02-15"
 excerpt: "New research reveals exactly how sleep triggers muscle-building hormones—and why the sleep-hormone balance may be the most important factor in your gains."
 ---
 
@@ -90,3 +89,7 @@ For the fitness-minded, the message is clear: your training program and nutritio
 
 - Ding, X. et al. (2025). Neuroendocrine circuit for sleep-dependent growth hormone release. *Cell*. https://doi.org/10.1016/j.cell.2025.05.039
 - University of California, Berkeley. (2025, September 8). Sleep strengthens muscle and bone by boosting growth hormone levels. *Berkeley News*.
+
+---
+
+*Track your sleep with Jacked. Download now.*

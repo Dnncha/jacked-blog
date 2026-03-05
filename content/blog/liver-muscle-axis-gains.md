@@ -1,6 +1,5 @@
 ---
 title: "The Liver-Muscle Axis: How Your Liver Dictates Your Gains"
-date: "2026-02-16"
 excerpt: "Most lifters focus on training and protein intake, but ignore the organ most critical to muscle growth. Your liver is the hidden engine driving protein synthesis, hormone metabolism, and recovery."
 ---
 
@@ -123,3 +122,7 @@ The fix isn't complicated: eat whole foods, sleep enough, drink moderately, and 
 [16] Abenavoli L, et al. Milk thistle in liver disease. Phytother Res. 2018.
 
 [17] Sato K, et al. Vitamin E and fatty liver. J Hepatol. 2015.
+
+---
+
+*Track your liver health with Jacked. Download now.*

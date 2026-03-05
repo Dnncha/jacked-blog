@@ -1,6 +1,5 @@
 ---
 title: "Protein Quality: Why Your Body Doesn't Care About the Label"
-date: "2026-02-15"
 excerpt: "New 2025 research reveals that protein quality—measured by PDCAAS and DIAAS scores—may matter more than total intake for muscle growth. Here's what the science says."
 ---
 
@@ -133,3 +132,7 @@ The era of "protein is protein" is over. Your muscles are picky eaters. Feed the
 - [University of Illinois - High DIAAS Protein Study (2025)](https://fitnessrec.com/articles/protein-quality-for-athletes-pdcaas-and-diaas-scoring-systems-explained)
 - [Glanbia Nutritionals - Spectrum of Protein Quality (2025)](https://www.glanbianutritionals.com/en/nutri-knowledge-center/nutritional-resources/spectrum-protein-quality)
 - [Jäger et al., ISSN Position Stand (2017)](https://jissn.biomedcentral.com/articles/10.1186/s12970-017-0177-8)
+
+---
+
+*Track your protein quality with Jacked. Download now.*

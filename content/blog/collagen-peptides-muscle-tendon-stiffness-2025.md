@@ -1,6 +1,5 @@
 ---
 title: "Collagen Peptides and Muscle-Tendon Stiffness: The 2025 Science"
-date: "2026-02-15"
 excerpt: "New research reveals how collagen supplementation improves explosive strength through enhanced muscle and tendon stiffness—a game-changer for athletes needing rapid force production."
 ---
 
@@ -100,3 +99,7 @@ If you're already hitting your protein goals and want that extra edge for explos
 2. Bojsen-Møller J, Magnusson SP, Rasmussen LR, Kjaer M, Aagaard P. Muscle performance during maximal isometric and dynamic contractions is influenced by the stiffness of the tendinous structures. *J Appl Physiol (1985).* 2005;99(3):986-94.
 
 3. Kirmse M, et al. Impact of Collagen Peptide Supplementation in Combination with Long-Term Physical Training on Strength, Musculotendinous Remodeling, Functional Recovery, and Body Composition in Healthy Adults: A Systematic Review with Meta-analysis. *Sports Med.* 2024.
+
+---
+
+*Track your tendon health with Jacked. Download now.*

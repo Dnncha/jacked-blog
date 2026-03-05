@@ -1,6 +1,5 @@
 ---
 title: "Cortisol and Muscle Growth: The Hidden Killer of Your Gains"
-date: "2026-02-15"
 excerpt: "Chronic stress and elevated cortisol can silently sabotage your muscle-building efforts. Here's what science says about managing this hormonal beast."
 ---
 
@@ -113,3 +112,7 @@ Your muscles grow when you're recovered, not when you're stressed. Train hard, b
 - Triplett-McBride T. (2025). Overtraining syndrome and the endocrine response. *Sports Medicine*
 - Wolfe RR. (2025). The underappreciated role of cortisol in muscle protein metabolism. *Current Opinion in Clinical Nutrition and Metabolic Care*
 - Altamura M, et al. (2025). Sleep disruption and cortisol dysregulation. *Psychoneuroendocrinology*
+
+---
+
+*Track your stress and recovery with Jacked. Download now.*

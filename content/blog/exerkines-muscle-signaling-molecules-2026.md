@@ -1,6 +1,5 @@
 ---
 title: "Exerkines: The Secret Signaling Molecules That Make Your Muscles Talk to Your Whole Body"
-date: "2026-02-16"
 excerpt: "When you lift weights, your muscles don't just get stronger—they become endocrine organs that release hundreds of signaling molecules affecting everything from brain function to bone density. Here's what science says about exerkines and how to maximize them."
 ---
 
@@ -160,3 +159,7 @@ Now go lift something heavy. Your whole body will thank you.
 3. Exercise, Exerkines, and Sarcopenia. *Diabetes & Metabolism Journal*, 2026.
 4. Transcriptomic adaptation of skeletal muscle in response to MICT and HIIT. *PLOS ONE*, 2025.
 5. Exploring SPARC as a leading exerkine candidate. *Biomedicines*, 2026.
+
+---
+
+*Track your training with Jacked. Download now.*

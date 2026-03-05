@@ -1,6 +1,5 @@
 ---
 title: "Beta-Alanine for Strength Training: Does It Actually Work?"
-date: "2026-02-15"
 excerpt: "The science behind beta-alanine supplementation for strength and hypertrophy athletes—separating hype from evidence."
 ---
 
@@ -9,6 +8,8 @@ If you've spent any time in the supplement aisle or scrolling through pre-workou
 Let's dig into the science.
 
 ## What Is Beta-Alanine?
+
+{{recovery-pyramid}}
 
 Beta-alanine is a non-essential amino acid that, when combined with histidine, forms **carnosine** in your muscles. Carnosine acts as an intracellular buffer, helping to neutralize acid buildup during high-intensity exercise.
 
@@ -19,6 +20,8 @@ The theory: more beta-alanine → more carnosine → less acid buildup → more 
 Simple, right? But the reality is more nuanced.
 
 ## The Research: What Actually Happens?
+
+{{recovery-pyramid}}
 
 ### Effects on Exercise Performance
 
@@ -52,6 +55,8 @@ Some research also suggests carnosine levels increase more when beta-alanine is 
 
 ## What This Means for Strength Athletes
 
+{{recovery-pyramid}}
+
 Let's be practical:
 
 | Training Goal | Beta-Alanine Value |
@@ -73,6 +78,8 @@ However, if you're:
 
 ## The Downsides
 
+{{recovery-pyramid}}
+
 ### Paresthesia
 
 That tingling sensation? It's harmless but annoying. Doses above 2g at once trigger it. Solutions:
@@ -91,6 +98,8 @@ Compared to creatine (which has far stronger evidence for strength/hypertrophy),
 
 ## The Verdict
 
+{{recovery-pyramid}}
+
 **For traditional strength and hypertrophy training, beta-alanine is a decent supplement but not a game-changer.** The science supports its use primarily for endurance-type activities and high-rep protocols.
 
 If you're already taking creatine, eating enough protein, and hitting your calories, beta-alanine is a reasonable addition—not because it'll transform your lifts, but because the marginal gains might add up over time.
@@ -100,6 +109,8 @@ But let's be clear: **no supplement replaces good programming, consistent effort
 ---
 
 ## Key Takeaways
+
+{{recovery-pyramid}}
 
 1. **Effective dose**: 4-6g/day divided, for 2-4 weeks minimum
 2. **Best for**: High-rep training, endurance, conditioning
@@ -111,7 +122,13 @@ But let's be clear: **no supplement replaces good programming, consistent effort
 
 ---
 
+*Track your supplements and training progress with Jacked. Download now.*
+
+---
+
 ## References
+
+{{recovery-pyramid}}
 
 1. Georgiou GD, et al. Effect of Beta-Alanine Supplementation on Maximal Intensity Exercise in Trained Young Male Individuals: A Systematic Review and Meta-Analysis. *Int J Sport Nutr Exerc Metab*. 2024 Jul 19.
 2. Trexler ET, et al. Effects of Beta-Alanine Supplementation on Exercise Performance: A Meta-Analysis. *Amino Acids*. 2022.

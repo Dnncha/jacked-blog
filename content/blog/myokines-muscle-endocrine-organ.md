@@ -1,6 +1,5 @@
 ---
 title: "Myokines: The Secret Language of Your Muscles"
-date: "2026-02-15"
 excerpt: "Your muscles aren't just contractsile tissue—they're a communication hub, releasing proteins that talk to your brain, fat, liver, and even fight cancer. Here's what science says about the endocrine organ you never knew you had."
 ---
 
@@ -136,3 +135,7 @@ That's not just a pump. That's a symphony.
 4. Wrann et al. (2013). "Exercise induces hippocampal BDNF through a PGC-1α/FNDC5 pathway." *Cell Metabolism*, 18(5), 649-659.
 5. Bettariga et al. (2025). "Exercise-induced myokines and cancer cell proliferation." *ScienceDaily*.
 6. Lee et al. (2020). "Muscle–Organ Crosstalk: The Emerging Roles of Myokines." *Endocrine Reviews*, 41(4), 594-608.
+
+---
+
+*Track your myokines with Jacked. Download now.*

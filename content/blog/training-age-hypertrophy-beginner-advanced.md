@@ -1,6 +1,5 @@
 ---
 title: "Training Age: Why Beginners Grow Fast and Advanced Lifters Struggle"
-date: "2026-02-15"
 excerpt: "Understanding why your gains slow down and how to keep making progress no matter your training age."
 ---
 
@@ -148,3 +147,7 @@ Meet yourself where you are, respect the biology, and keep pushing. The muscles 
 2. Morton, R.W. et al. (2025). "Muscle Protein Synthesis Responses to Resistance Training by Training Status." *Nutrients*, 17(16), 2579.
 3. Ahtiainen, J.P. et al. (2025). "Satellite Cell Activity in Resistance Training: Effects of Training Status." *Journal of Strength and Conditioning Research*.
 4. Bradshaw, E.J. et al. (2025). "Individual Responses to Resistance Training: Genetic and Environmental Factors." *Medicine & Science in Sports & Exercise*.
+
+---
+
+*Track your training age with Jacked. Download now.*

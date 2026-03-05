@@ -1,6 +1,5 @@
 ---
 title: "Muscle Architecture: The Hidden Factor Determining Your Hypertrophy Potential"
-date: "2026-02-16"
 excerpt: "Fascicle length, pennation angle, and muscle thickness determine your strength and size gains. Here's how to optimize training for your specific muscle architecture."
 ---
 
@@ -108,3 +107,7 @@ The science of muscle architecture explains why the "best" exercise varies perso
 - Folland J, et al. The relationship between muscle thickness and pennation angle is mediated by fascicle length. Scientific Reports. 2024.
 - Seynm A, et al. Stretch-mediated hypertrophy: the role of fascicle length. 2023.
 - Aagaard P, et al. Training-induced changes in muscle architecture. J Strength Cond Res. 2001.
+
+---
+
+*Track your muscle architecture with Jacked. Download now.*

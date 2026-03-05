@@ -1,6 +1,5 @@
 ---
 title: "Muscle Fiber Types and Training Specificity: The Science Behind Targeted Hypertrophy"
-date: "2026-02-15"
 excerpt: "Understanding how type I, type IIa, and type IIx fibers adapt differently to training can help you optimize your programming for specific goals."
 ---
 
@@ -115,3 +114,7 @@ Whether you're chasing a 500-pound squat or training for your first marathon, yo
 2. Morton SK, et al. (2016). Resistance training load effects on muscle hypertrophy and strength. Journal of Sports Sciences.
 3. Schoenfeld BJ, et al. (2018). Are the Hypertrophic Adaptations to High and Low-Load Resistance Training Muscle Fiber Type Specific? Frontiers in Physiology.
 4. Trappe S, et al. (2013). Effects of resistance training on muscle fiber type transitions. Journal of Applied Physiology.
+
+---
+
+*Track your fiber types with Jacked. Download now.*

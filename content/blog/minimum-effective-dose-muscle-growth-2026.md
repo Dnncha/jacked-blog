@@ -1,6 +1,5 @@
 ---
 title: "The Minimum Effective Dose for Muscle Growth: How Little Training Actually Works?"
-date: "2026-02-15"
 excerpt: "You might be training more than you need to. Recent research reveals that significantly less volume than traditionally recommended can still drive muscle growth — if you get the fundamentals right."
 ---
 

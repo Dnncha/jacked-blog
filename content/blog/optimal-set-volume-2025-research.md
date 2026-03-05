@@ -1,6 +1,5 @@
 ---
 title: "The 16 Sets Per Session Limit: New Research on Optimal Training Volume"
-date: "2026-02-15"
 excerpt: "Recent 2025 research reveals a surprising ceiling for training volume per session—going beyond 16 sets may actually hinder muscle growth. Here's what the science says."
 ---
 
@@ -98,3 +97,7 @@ The era of "more is better" is evolving. The 2025 research confirms what some ex
 [2] Krieger, J.W. (2010). "Single vs. multiple sets of resistance exercise for muscle hypertrophy: A meta-analysis." *Journal of Strength and Conditioning Research*.
 
 [3] Haff, G.G., et al. (2008). "Volume load and muscular fatigue during consecutive high-intensity resistance exercise bouts." *International Journal of Sports Medicine*.
+
+---
+
+*Track your set volume with Jacked. Download now.*

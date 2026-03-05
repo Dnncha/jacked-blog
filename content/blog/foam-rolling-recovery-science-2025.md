@@ -1,6 +1,5 @@
 ---
 title: "Foam Rolling for Muscle Growth: What the 2024-2025 Research Actually Says"
-date: "2026-02-16"
 excerpt: "The science on foam rolling has matured significantly. We break down what recent research reveals about its effects on recovery, performance, and yes — even muscle growth."
 ---
 
@@ -99,3 +98,7 @@ But it's not going to:
 - (2025). The Impact of Foam Rolling on Recovery and Performance Components: A Systematic Review. *ResearchGate*.
 - (2025). Evaluating the impact of self myofascial release on volleyball athletes. *Scientific Reports*.
 - (2025). Survey of sports professionals on foam rolling applications. *Frontiers in Physiology*.
+
+---
+
+*Track your recovery with Jacked. Download now.*

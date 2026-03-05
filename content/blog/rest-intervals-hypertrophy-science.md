@@ -1,6 +1,5 @@
 ---
 title: "The Science of Rest Intervals: What the 2025 Research Actually Shows"
-date: "2026-02-14"
 excerpt: "New meta-analysis challenges conventional wisdom about how long to rest between sets for maximum muscle growth."
 ---
 
@@ -78,3 +77,7 @@ Stop stressing about the clock. If you're training hard, eating enough protein, 
 ## References
 
 [^1]: Investigating the impact of less than or greater than 60 seconds of inter-set rest on muscle hypertrophy and strength increases in males with >1 year of resistance training experience: systematic review with meta-analysis. medRxiv, 2025. doi: https://doi.org/10.1101/2025.09.22.25336351
+
+---
+
+*Track your rest intervals with Jacked. Download now.*

@@ -1,6 +1,5 @@
 ---
 title: "The Mind-Muscle Connection: Real Science or Just Hype?"
-date: "2026-02-15"
 excerpt: "Does consciously focusing on your muscles actually build more muscle? We dive into the research to separate fact from fitness fiction."
 ---
 
@@ -94,3 +93,7 @@ The biggest danger isn't that MMC doesn't work—it's that people spend too much
 - Schoenfeld et al. (2015). Importance of mind-muscle connection during progressive resistance training. PubMed.
 - Halperin et al. (2018). From mental power to muscle power. Journal of Neurophysiology.
 - Sports Medicine (2018). Differential effects of attentional focus strategies during resistance training.
+
+---
+
+*Track your mind-muscle connection with Jacked. Download now.*

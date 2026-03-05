@@ -4,7 +4,6 @@ import { fileURLToPath } from 'url'
 import matter from 'gray-matter'
 import Link from 'next/link'
 
-// ESM compatibility
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = path.dirname(__filename)
 
@@ -13,39 +12,30 @@ export async function generateMetadata({ params }) {
   const postsDir = path.join(__dirname, '..', '..', '..', 'content', 'blog')
   const fullPath = path.join(postsDir, `${slug}.md`)
   
-  const samplePosts = {
-    'autoprogression-future-of-hypertrophy': { title: 'Why Autoprogression is the Future of Hypertrophy Training', excerpt: 'Traditional linear progression is inefficient. Auto-regulation and autoprogression could double your gains.', date: '2026-02-14' },
-    'volume-equivalence-principle': { title: 'The Volume Equivalence Principle: Myth or Science?', excerpt: 'Does it really matter how you split your volume? A deep dive into the research on mechanical tension and metabolic stress.', date: '2026-02-13' },
-    'protein-timing-myth': { title: 'Protein Timing: What the Science Actually Says', excerpt: 'The anabolic window is much larger than you think. Here\'s what matters for muscle protein synthesis.', date: '2026-02-12' }
-  }
+  let frontmatter = { title: 'Post not found', excerpt: '', date: '2026-01-01' }
   
-  let frontmatter = { title: 'Post not found', excerpt: '' }
-  
-  if (samplePosts[slug]) {
-    frontmatter = samplePosts[slug]
-  } else if (fs.existsSync(postsDir) && fs.existsSync(fullPath)) {
+  if (fs.existsSync(postsDir) && fs.existsSync(fullPath)) {
     const fileContents = fs.readFileSync(fullPath, 'utf8')
     const { data } = matter(fileContents)
-    frontmatter = { title: data.title, excerpt: data.excerpt || '' }
+    frontmatter = { title: data.title, excerpt: data.excerpt || '', date: data.date || '2026-01-01' }
   }
   
   return {
     title: `${frontmatter.title} | Jacked`,
     description: frontmatter.excerpt,
+    alternates: {
+      canonical: `https://jacked.coach/blog/${slug}`,
+    },
     openGraph: {
       title: frontmatter.title,
       description: frontmatter.excerpt,
       type: 'article',
-      url: `https://jacked-blog.vercel.app/blog/${slug}`,
-      siteName: 'Jacked',
+      url: `https://jacked.coach/blog/${slug}`,
     },
     twitter: {
       card: 'summary_large_image',
       title: frontmatter.title,
       description: frontmatter.excerpt,
-    },
-    alternates: {
-      canonical: `https://jacked-blog.vercel.app/blog/${slug}`,
     },
   }
 }
@@ -54,11 +44,7 @@ export async function generateStaticParams() {
   const postsDir = path.join(__dirname, '..', '..', '..', 'content', 'blog')
   
   if (!fs.existsSync(postsDir)) {
-    return [
-      { slug: 'autoprogression-future-of-hypertrophy' },
-      { slug: 'volume-equivalence-principle' },
-      { slug: 'protein-timing-myth' }
-    ]
+    return []
   }
   
   const files = fs.readdirSync(postsDir)
@@ -69,6 +55,134 @@ export async function generateStaticParams() {
     }))
 }
 
+function getPosts() {
+  const postsDir = path.join(__dirname, '..', '..', '..', 'content', 'blog')
+  
+  if (!fs.existsSync(postsDir)) {
+    return []
+  }
+  
+  const files = fs.readdirSync(postsDir)
+  return files
+    .filter(file => file.endsWith('.md'))
+    .map(file => {
+      const slug = file.replace('.md', '')
+      const fullPath = path.join(postsDir, file)
+      const fileContents = fs.readFileSync(fullPath, 'utf8')
+      const { data } = matter(fileContents)
+      return {
+        slug,
+        title: data.title,
+        date: data.date,
+        category: data.category || 'General',
+        excerpt: data.excerpt || ''
+      }
+    })
+    .sort((a, b) => new Date(b.date) - new Date(a.date))
+}
+
+function relatedPosts(posts, currentSlug, currentTitle, currentExcerpt, currentCategory) {
+  const terms = new Set(
+    `${currentTitle || ''} ${currentExcerpt || ''}`
+      .toLowerCase()
+      .split(/[^a-z0-9]+/)
+      .filter(w => w.length > 3)
+  )
+
+  return posts
+    .filter(p => p.slug !== currentSlug)
+    .map(p => {
+      const hay = `${p.title || ''} ${p.excerpt || ''}`.toLowerCase()
+      let overlap = 0
+      for (const t of terms) {
+        if (hay.includes(t)) overlap++
+      }
+      const categoryBoost = p.category === currentCategory ? 2 : 0
+      const recencyBoost = p.date ? (Date.now() - new Date(p.date).getTime() < 1000 * 60 * 60 * 24 * 30 ? 1 : 0) : 0
+      return { ...p, _score: overlap + categoryBoost + recencyBoost }
+    })
+    .sort((a, b) => b._score - a._score || new Date(b.date) - new Date(a.date))
+    .slice(0, 4)
+}
+
+// Simple markdown to HTML with diagram support
+function parseContent(content) {
+  // Extract mermaid blocks and convert to images using mermaid.ink
+  const mermaidBlocks = []
+  let mermaidIndex = 0
+  
+  const contentWithMarkers = content.replace(/```mermaid\n([\s\S]*?)```/g, (match, code) => {
+    const index = mermaidIndex++
+    // Encode for mermaid.ink API using base64
+    const encoded = Buffer.from(code.trim()).toString('base64').replace(/\+/g, '-').replace(/\//g, '_').replace(/=+$/, '')
+    mermaidBlocks.push(encoded)
+    return `<<MERMAID-IMG-${index}>>`
+  })
+  
+  // Replace mermaid markers with img tags
+  let html = contentWithMarkers
+    .replace(/<<MERMAID-IMG-(\d+)>>/g, (match, index) => {
+      const encoded = mermaidBlocks[index]
+      return `<img src="https://mermaid.ink/img/${encoded}" alt="Diagram" class="mermaid-diagram" />`
+    })
+    // Hormonal cascade diagram
+    .replace(/\{\{hormone-cascade\}\}/g, `
+      <div class="diagram">
+        <h4>🧬 Hormonal Response Cascade</h4>
+        <svg viewBox="0 0 400 200" class="cascade-diagram">
+          <rect x="20" y="80" width="80" height="40" rx="8" fill="#e3f2fd"/>
+          <text x="60" y="105" text-anchor="middle" font-size="12">Training</text>
+          <path d="M 100 100 L 140 100" stroke="#1976d2" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+          <rect x="140" y="70" width="90" height="60" rx="8" fill="#fff3e0"/>
+          <text x="185" y="95" text-anchor="middle" font-size="11">CNS Activation</text>
+          <path d="M 230 100 L 270 100" stroke="#1976d2" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+          <rect x="270" y="60" width="110" height="80" rx="8" fill="#f3e5f5"/>
+          <text x="325" y="85" text-anchor="middle" font-size="12">HPA Axis</text>
+          <defs>
+            <marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+              <path d="M0,0 L0,6 L9,3 z" fill="#1976d2"/>
+            </marker>
+          </defs>
+        </svg>
+      </div>
+    `)
+    // Recovery pyramid
+    .replace(/\{\{recovery-pyramid\}\}/g, `
+      <div class="diagram">
+        <h4>🏗️ Recovery Priority Pyramid</h4>
+        <svg viewBox="0 0 300 220" class="pyramid-diagram">
+          <polygon points="150,20 250,180 50,180" fill="none" stroke="#222" stroke-width="2"/>
+          <text x="150" y="50" text-anchor="middle" font-size="11" font-weight="600">Sleep 40%</text>
+          <line x1="80" y1="100" x2="220" y2="100" stroke="#666" stroke-width="1" stroke-dasharray="4"/>
+          <text x="150" y="95" text-anchor="middle" font-size="11" font-weight="600">Nutrition 30%</text>
+          <line x1="100" y1="140" x2="200" y2="140" stroke="#666" stroke-width="1" stroke-dasharray="4"/>
+          <text x="150" y="135" text-anchor="middle" font-size="11" font-weight="600">Training 20%</text>
+          <line x1="120" y1="170" x2="180" y2="170" stroke="#666" stroke-width="1" stroke-dasharray="4"/>
+          <text x="150" y="165" text-anchor="middle" font-size="11" font-weight="600">Supplements 10%</text>
+        </svg>
+      </div>
+    `)
+  
+  // Auto-link URLs in text
+  let text = html.replace(/(^|\s)(https?:\/\/[^\s<]+)/g, '$1<a href="$2" target="_blank" rel="noopener">$2</a>')
+  
+  // Standard markdown conversion
+  text = text
+    .replace(/^## (.+)$/gm, '<h2>$1</h2>')
+    .replace(/^### (.+)$/gm, '<h3>$1</h3>')
+    .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
+    .replace(/\*(.+?)\*/g, '<em>$1</em>')
+    .replace(/^\- (.+)$/gm, '<li>$1</li>')
+    .replace(/(<li>.*?<\/li>)/s, '<ul>$1</ul>')
+    .replace(/\n\n/g, '</p><p>')
+    .replace(/^(.+)$/gm, (match) => {
+      if (match.startsWith('<')) return match
+      return `<p>${match}</p>`
+    })
+  
+  return text
+}
+
 export default async function BlogPost({ params }) {
   const { slug } = await params
   const postsDir = path.join(__dirname, '..', '..', '..', 'content', 'blog')
@@ -77,227 +191,235 @@ export default async function BlogPost({ params }) {
   let content = ''
   let frontmatter = { title: 'Post not found', date: '' }
   
-  // Sample content for demo posts
-  const samplePosts = {
-    'autoprogression-future-of-hypertrophy': {
-      title: 'Why Autoprogression is the Future of Hypertrophy Training',
-      date: 'February 14, 2026',
-      content: `
-## The Problem with Traditional Progression
-
-Most lifters follow linear periodization: add 2.5kg to the bar every week until you fail, then deload. This approach has served us well for decades, but it's deeply inefficient.
-
-**The numbers don't lie:**
-- Beginners plateau within 6-12 months
-- Intermediate lifters often stall for years
-- Most people never break the 90kg bench mark
-
-## What is Autoprogression?
-
-Autoprogression adjusts your training load based on your actual performance each session. Not last week. Not what you think you should lift. Today.
-
-### Key Principles:
-
-1. **Auto-regulation**: Use RPE (Rate of Perceived Exertion) or RTS methodology
-2. **Daily undulating periodization**: Vary intensity and volume daily
-3. **Progressive overload without failure**: Add reps or weight when ready
-
-## The Science
-
-A 2023 study in the Journal of Strength and Conditioning found that auto-regulated training produced **23% better strength gains** compared to fixed linear progression.
-
-> "The adaptive nature of autoprogression accounts for daily fluctuations in fatigue, neural drive, and recovery status." - Zourdos et al., 2023
-
-## How Jacked Implements This
-
-Jacked uses an algorithm that:
-1. Tracks your actual performance (not just 1RM estimates)
-2. Adjusts target weights based on RPE
-3. Progresses you when you hit 3+ clean reps at target RPE
-4. Deload automatically when you miss 2 consecutive sessions
-
-## The Bottom Line
-
-Traditional progression treats every day the same. Autoprogression respects that you're a human, not a robot. Your strength fluctuates daily—your training should too.
-
----
-
-*Ready to optimize your gains? Download Jacked and let science do the work.*
-      `
+  if (fs.existsSync(fullPath)) {
+    const fileContents = fs.readFileSync(fullPath, 'utf8')
+    const { data, content: markdown } = matter(fileContents)
+    frontmatter = { title: data.title, date: data.date, excerpt: data.excerpt, category: data.category || 'General' }
+    content = parseContent(markdown)
+  }
+  
+  const allPosts = relatedPosts(
+    getPosts(),
+    slug,
+    frontmatter.title,
+    frontmatter.excerpt,
+    frontmatter.category || 'General'
+  )
+  
+  const shareUrl = `https://jacked.coach/blog/${slug}`
+  const shareText = encodeURIComponent(frontmatter.title)
+  
+  // JSON-LD Structured Data for SEO
+  const jsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: frontmatter.title,
+    description: frontmatter.excerpt,
+    datePublished: frontmatter.date,
+    dateModified: frontmatter.date,
+    author: {
+      '@type': 'Organization',
+      name: 'Jacked'
     },
-    'volume-equivalence-principle': {
-      title: 'The Volume Equivalence Principle: Myth or Science?',
-      date: 'February 13, 2026',
-      content: `
-## The Theory
-
-You've probably heard: "Volume is volume." Whether you do 10x10 at 60% or 5x5 at 80%, the total tonnage is what matters—or so the theory goes.
-
-This is called the Volume Equivalence Principle, and it's one of the most debated topics in hypertrophy research.
-
-## What the Research Shows
-
-### In Support of Volume Equivalence:
-
-- **Schoenfeld et al. (2015)**: Found similar muscle growth between high-volume (3x10-12) and low-volume (3x5-7) groups when total work was matched
-- **Brzycki (1998)**: Proposed volume load (sets × reps × weight) as the primary driver of hypertrophy
-
-### Where It Breaks Down:
-
-- **Miller et al. (2021)**: Higher volume (20+ sets/muscle/week) outperformed moderate volume (10 sets) in trained individuals
-- **Krieger (2010)**: Meta-analysis found >10 sets/muscle superior to fewer sets
-
-## The Real Answer: It's Complicated
-
-**For beginners**: Volume equivalence largely holds. Anything works.
-**For intermediates**: Moderate volumes work, but more doesn't hurt
-**For advanced**: Volume needs increase, but so does fatigue management
-
-## What Actually Matters
-
-1. **Mechanical tension** is non-negotiable
-2. **Progressive overload** over time
-3. **Training to failure** is NOT required (and may hinder)
-4. **Protein intake** (~1.6-2.2g/kg)
-
-## Practical Takeaways
-
-- Don't obsess over exact volume formulas
-- Aim for 10-20 sets/muscle/week as a starting point
-- Adjust based on recovery and results
-- More isn't always better—but too little definitely is
-
----
-
-*Track your volume, not just your weights. Jacked does this automatically.*
-      `
+    publisher: {
+      '@type': 'Organization',
+      name: 'Jacked',
+      logo: {
+        '@type': 'ImageObject',
+        url: 'https://jacked.coach/og-image.png'
+      }
     },
-    'protein-timing-myth': {
-      title: 'Protein Timing: What the Science Actually Says',
-      date: 'February 12, 2026',
-      content: `
-## The Anabolic Window: Bigger Than You Think
-
-For years, we've been told you have a 30-60 minute "anabolic window" after training. Miss it, and your gains are ruined.
-
-**Spoiler**: This is largely myth.
-
-## What the Research Says
-
-### The Classic Studies
-
-- **Moore et al. (2015)**: Muscle protein synthesis (MPS) elevated for up to 72 hours post-training
-- **Schoenfeld et al. (2018)**: No difference in muscle growth between pre- and post-workout protein
-
-### The Nuance
-
-The "window" might exist, but it's more like a **24-48 hour door** than a 30-minute window.
-
-## What Actually Matters
-
-### Total Daily Protein Intake
-
-This is the #1 factor. Aim for **1.6-2.2g per kg bodyweight** daily.
-
-### Protein Distribution
-
-4-5 meals of 20-40g protein > 1 giant bolus
-
-### Casein Before Bed
-
-This IS supported—casein provides slow-digesting amino acids overnight.
-
-## The Practical Approach
-
-1. **Post-workout**: Have protein within a few hours (the window is large)
-2. **Pre-workout**: Not critical, but 20g 30-60min before won't hurt
-3. **Before bed**: 30-40g casein or slow-digesting protein
-4. **Throughout the day**: Spread protein evenly
-
-## What Doesn't Matter Much
-
-- Exact timing around training (within 2-4 hours is fine)
-- BCAA supplements (if you're eating enough protein)
-- Fast-digesting vs slow-digesting (except pre-sleep)
-
-## The Bottom Line
-
-Worry about **total daily protein first**. Timing is secondary.
-
----
-
-*Jacked tracks your protein intake and helps you hit your daily targets.*
-      `
+    mainEntityOfPage: {
+      '@type': 'WebPage',
+      '@id': shareUrl
+    },
+    image: 'https://jacked.coach/og-image.png',
+    breadcrumb: {
+      '@type': 'BreadcrumbList',
+      itemListElement: [
+        {
+          '@type': 'ListItem',
+          position: 1,
+          name: 'Home',
+          item: 'https://jacked.coach/'
+        },
+        {
+          '@type': 'ListItem',
+          position: 2,
+          name: 'Blog',
+          item: 'https://jacked.coach/'
+        },
+        {
+          '@type': 'ListItem',
+          position: 3,
+          name: frontmatter.title,
+          item: shareUrl
+        }
+      ]
     }
   }
   
-  if (samplePosts[slug]) {
-    frontmatter = samplePosts[slug]
-    content = samplePosts[slug].content
-  } else if (fs.existsSync(postsDir) && fs.existsSync(fullPath)) {
-    const fileContents = fs.readFileSync(fullPath, 'utf8')
-    const { data, content: mdContent } = matter(fileContents)
-    frontmatter = data
-    content = mdContent
-  }
-  
-  // Simple markdown to HTML conversion (basic)
-  const htmlContent = content
-    .replace(/^## (.+)$/gm, '<h2>$1</h2>')
-    .replace(/^### (.+)$/gm, '<h3>$1</h3>')
-    .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
-    .replace(/\*(.+?)\*/g, '<em>$1</em>')
-    .replace(/^> (.+)$/gm, '<blockquote>$1</blockquote>')
-    .replace(/^---$/gm, '<hr/>')
-    .replace(/\n\n/g, '</p><p>')
-    .replace(/^(.+)$/gm, (match) => {
-      if (match.startsWith('<')) return match
-      return match
-    })
-
   return (
-    <div>
-      <Link href="/" style={{ color: '#666', textDecoration: 'none', fontSize: '0.9rem' }}>← Back to Blog</Link>
+    <div style={{ maxWidth: '720px', margin: '0 auto', padding: '2rem 1rem', background: '#000000', minHeight: '100vh', color: '#e5e5e5' }}>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
+      <style>{`
+        body { background: #000000 !important; }
+        .diagram {
+          margin: 2rem 0;
+          padding: 1.5rem;
+          background: #f8f9fa;
+          border-radius: 12px;
+          border: 1px solid #e0e0e0;
+        }
+        .diagram h4 {
+          margin: 0 0 1rem 0;
+          font-size: 1.1rem;
+          color: #FF6B35;
+          font-weight: 700;
+        }
+        .diagram svg {
+          width: 100%;
+          max-width: 400px;
+          height: auto;
+          display: block;
+          margin: 0 auto;
+        }
+        .mermaid-diagram {
+          max-width: 100%;
+          height: auto;
+          display: block;
+          margin: 2rem auto;
+          border-radius: 8px;
+        }
+        article h2 {
+          color: #e5e5e5;
+          font-weight: 700;
+          margin-top: 2.5rem;
+          border-left: 4px solid #FFD700;
+          padding-left: 1rem;
+        }
+        article h3 {
+          color: #ccc;
+          font-weight: 600;
+        }
+        article p {
+          color: #ccc !important;
+          line-height: 1.8;
+        }
+        article a {
+          color: #FFD700;
+          text-decoration: underline;
+        }
+        article strong {
+          color: #fff;
+        }
+        article ul, article ol {
+          color: #ccc;
+          padding-left: 1.5rem;
+        }
+        article li {
+          color: #ccc;
+          margin-bottom: 0.5rem;
+          line-height: 1.6;
+        }
+        article blockquote {
+          border-left: 3px solid #FFD700;
+          padding-left: 1rem;
+          margin-left: 0;
+          color: #aaa;
+          font-style: italic;
+        }
+        article code {
+          background: #222;
+          padding: 0.2rem 0.4rem;
+          border-radius: 4px;
+          font-size: 0.9em;
+        }
+        article pre {
+          background: #111;
+          padding: 1rem;
+          border-radius: 8px;
+          overflow-x: auto;
+        }
+        article table {
+          width: 100%;
+          border-collapse: collapse;
+          margin: 1.5rem 0;
+        }
+        article th, article td {
+          border: 1px solid #333;
+          padding: 0.75rem;
+          text-align: left;
+        }
+        article th {
+          background: #1a1a1a;
+          font-weight: 600;
+        }
+        article img {
+          max-width: 100%;
+          border-radius: 8px;
+          margin: 1rem 0;
+        }
+      `}</style>
       
-      <article style={{ marginTop: '2rem' }}>
-        <h1 style={{ fontSize: '2.5rem', marginBottom: '0.5rem', color: '#1a1a1a' }}>{frontmatter.title}</h1>
-        <p style={{ color: '#666', marginBottom: '2rem' }}>{frontmatter.date}</p>
-        
-        <div 
-          style={{ 
-            fontSize: '1.1rem', 
-            lineHeight: 1.8,
-            color: '#333'
-          }}
-          dangerouslySetInnerHTML={{ __html: htmlContent }}
-        />
+      <Link href="/" style={{ color: '#FFD700', textDecoration: 'none', fontSize: '0.95rem', fontWeight: '600' }}>
+        ← Back to all articles
+      </Link>
+      
+      <header style={{ marginTop: '1.5rem', marginBottom: '2rem' }}>
+        <h1 style={{ fontSize: '2.25rem', fontWeight: '800', marginBottom: '0.5rem', lineHeight: '1.3', color: '#ffffff', letterSpacing: '-0.02em' }}>
+          {frontmatter.title}
+        </h1>
+        <a
+          href={`https://apps.apple.com/us/app/jacked/id6757132605?utm_source=jacked_blog&utm_medium=article_top_cta&utm_campaign=ios_install&utm_content=${slug}`}
+          target="_blank"
+          rel="noopener noreferrer"
+          style={{ display: 'inline-block', marginTop: '0.35rem', padding: '0.6rem 0.95rem', borderRadius: '9px', textDecoration: 'none', fontWeight: '700', background: 'linear-gradient(135deg, #FFD700 0%, #FFA500 100%)', color: '#111' }}
+        >
+          Get the Jacked App ($3.99/mo)
+        </a>
+        <p style={{ marginTop: '0.45rem', marginBottom: 0, color: '#888', fontSize: '0.84rem' }}>
+          Use adaptive progression + fatigue management so this strategy is applied consistently, not guessed.
+        </p>
+      </header>
+      
+      <div style={{ display: 'flex', gap: '0.5rem', marginBottom: '2rem', paddingBottom: '1.5rem', borderBottom: '2px solid #333' }}>
+        <a href={`https://twitter.com/intent/tweet?text=${shareText}&url=${shareUrl}`} target="_blank" rel="noopener noreferrer" style={{ padding: '0.5rem 1rem', background: '#000000', color: '#FFD700', borderRadius: '8px', textDecoration: 'none', fontSize: '0.85rem', fontWeight: '600', border: '1px solid #333' }}>Share on X</a>
+      </div>
+      
+      <article style={{ lineHeight: '1.9', fontSize: '1.08rem', color: '#ccc' }}>
+        <div dangerouslySetInnerHTML={{ __html: content }} />
       </article>
       
-      <div style={{ 
-        marginTop: '3rem', 
-        padding: '2rem', 
-        background: '#f0f0f0', 
-        borderRadius: '12px',
-        textAlign: 'center'
-      }}>
-        <h3 style={{ marginTop: 0 }}>Ready to optimize your training?</h3>
-        <p>Download Jacked and let science guide your gains.</p>
-        <a 
-          href="https://apps.apple.com" 
-          target="_blank"
-          style={{
-            display: 'inline-block',
-            background: '#1a1a1a',
-            color: 'white',
-            padding: '1rem 2rem',
-            borderRadius: '8px',
-            textDecoration: 'none',
-            fontWeight: 'bold'
-          }}
-        >
-          Download on App Store
-        </a>
-      </div>
+      {allPosts.length > 0 && (
+        <section style={{ marginTop: '3rem', paddingTop: '2rem', borderTop: '2px solid #333' }}>
+          <h3 style={{ fontSize: '1.4rem', marginBottom: '1rem', fontWeight: '700', color: '#ffffff' }}>Related Articles</h3>
+          <div style={{ display: 'flex', flexDirection: 'column', gap: '0.75rem' }}>
+            {allPosts.map(post => (
+              <Link key={post.slug} href={`/blog/${post.slug}`} style={{ display: 'block', padding: '1rem', background: '#1a1a1a', borderRadius: '10px', textDecoration: 'none', color: 'inherit', border: '1px solid #333', transition: 'all 0.2s' }}>
+                <h4 style={{ margin: 0, fontSize: '1rem', fontWeight: '600', color: '#FFD700' }}>{post.title}</h4>
+              </Link>
+            ))}
+          </div>
+        </section>
+      )}
+      
+      <section style={{ marginTop: '3rem', padding: '2.5rem', background: 'linear-gradient(135deg, #FFD700 0%, #FFA500 100%)', borderRadius: '16px', color: 'white', textAlign: 'center', boxShadow: '0 10px 40px rgba(255, 107, 53, 0.3)' }}>
+        <h3 style={{ marginTop: 0, fontSize: '1.5rem', fontWeight: '800', letterSpacing: '-0.01em' }}>Ready to apply this in the gym?</h3>
+        <p style={{ opacity: 0.95, marginBottom: '1.5rem', fontSize: '1.05rem' }}>Open Jacked and get an adaptive hypertrophy plan with progression and fatigue management built in.</p>
+        <div style={{ marginTop: '1.5rem', paddingTop: '1.5rem', borderTop: '1px solid rgba(255,255,255,0.2)' }}>
+          <p style={{ opacity: 0.95, marginBottom: '0.75rem', fontWeight: '600' }}>📱 Also available:</p>
+          <a href={`https://apps.apple.com/us/app/jacked/id6757132605?utm_source=jacked_blog&utm_medium=article_cta&utm_campaign=ios_install&utm_content=${slug}`} target="_blank" rel="noopener noreferrer" style={{ display: 'inline-block', padding: '0.85rem 1.5rem', background: 'white', color: '#FFD700', borderRadius: '10px', textDecoration: 'none', fontWeight: '700' }}>
+            Start Free Trial in Jacked
+          </a>
+          <p style={{ marginTop: '0.65rem', marginBottom: 0, color: 'rgba(255,255,255,0.9)', fontSize: '0.85rem' }}>
+            Adaptive hypertrophy programming with progression + fatigue management.
+          </p>
+        </div>
+      </section>
     </div>
   )
 }

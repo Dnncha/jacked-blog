@@ -1,6 +1,5 @@
 ---
 title: "Anabolic Resistance: Why Your Muscles Stop Responding to Protein (And What To Do About It)"
-date: "2026-02-15"
 excerpt: "As we age, our muscles become less responsive to protein—a phenomenon called anabolic resistance. Here's the 2025-2026 science on fighting back and maintaining muscle mass."
 ---
 
@@ -11,6 +10,8 @@ If you're over 40 and have noticed that the protein-rich diet that worked in you
 New research from 2025-2026 is revealing exactly why this happens and, more importantly, how to fight back.
 
 ## What Is Anabolic Resistance?
+
+{{recovery-pyramid}}
 
 Anabolic resistance is the age-related decline in your muscles' ability to respond to the muscle-building (anabolic) signals from protein intake and resistance training. Simply put: the same amount of protein that triggered muscle growth in your twenties produces a weaker response in your forties and beyond.
 
@@ -25,6 +26,8 @@ The process behind anabolic resistance involves multiple factors:
 
 ## The Protein Gap: How Much Do You Actually Need?
 
+{{recovery-pyramid}}
+
 If you're under 30, the standard recommendation of 1.6-2.2g/kg of body weight per day works well. But for older adults experiencing anabolic resistance, research from 2025 suggests higher intakes are necessary.
 
 A comprehensive review in *Nutrients* (2025) found that older adults facing anabolic resistance benefit from **1.6 to 2.0 grams per kilogram of body weight daily**—significantly higher than the 1.2-1.6g/kg often recommended for younger adults [2].
@@ -37,6 +40,8 @@ But here's the crucial part: it's not just about total intake. The way you distr
 
 ## The Leucine Threshold Problem
 
+{{recovery-pyramid}}
+
 Leucine is the key amino acid that triggers muscle protein synthesis. Younger adults hit the "leucine threshold" (about 2.5-3g) with roughly 25-30g of protein per meal. Older adults need more—research shows they may need **35-40g per meal** to trigger the same response [3].
 
 This is because the sensitivity to leucine declines with age. Your muscles need a stronger "signal" (more leucine) to activate the same muscle-building response.
@@ -44,6 +49,8 @@ This is because the sensitivity to leucine declines with age. Your muscles need 
 A 2025 study in the *American Journal of Clinical Nutrition* demonstrated that while younger adults achieved maximal MPS with 25g of whey protein, older adults required closer to 40g—nearly 60% more [4].
 
 ## The Exercise Solution: It's Non-Negotiable
+
+{{recovery-pyramid}}
 
 Here's the encouraging part: resistance training actually *reverses* anabolic resistance.
 
@@ -57,7 +64,19 @@ The mechanism is straightforward:
 
 This is why combining higher protein intake with consistent resistance training is the one-two punch that defeats anabolic resistance.
 
+## Muscle Protein Synthesis Timeline
+
+{{recovery-pyramid}}
+{{mps-timeline}}
+
+## Training Stress vs Recovery
+
+{{recovery-pyramid}}
+{{stress-balance}}
+
 ## Practical Strategies (2025-2026 Recommendations)
+
+{{recovery-pyramid}}
 
 Based on the latest research, here's how to combat anabolic resistance:
 
@@ -82,6 +101,8 @@ For those struggling to hit protein targets, adding leucine supplements (3-5g pe
 Anabolic resistance is exacerbated by caloric restriction. If you're trying to lose fat while preserving muscle, the research suggests a slower fat-loss approach with higher protein (up to 2.4g/kg) to combat the doubled challenge of caloric deficit plus age-related resistance [7].
 
 ## The Bottom Line
+
+{{recovery-pyramid}}
 
 Anabolic resistance is real, it's scientific, and it's something every lifter over 40 will face. But it's not a death sentence for your gains. The solution is straightforward:
 
@@ -110,3 +131,7 @@ Your muscles may need more convincing than they did at 25, but they can still gr
 [6] Schoenfeld BJ, Aragon AA. (2025). Protein dose-timing and muscle protein synthesis. *Nutrition Research*.
 
 [7] Journal of International Society of Sports Nutrition. (2026). Protein needs during caloric restriction in older adults.
+
+---
+
+*Track your anabolic resistance with Jacked. Download now.*

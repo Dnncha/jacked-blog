@@ -1,6 +1,5 @@
 ---
 title: "The Lean Pork Discovery: How Meat Type Affects Post-Workout Muscle Growth"
-date: "2026-02-15"
 excerpt: "New research reveals that lean pork stimulates greater muscle protein synthesis than high-fat pork after weight training—challenging previous assumptions about dietary fat and hypertrophy."
 ---
 
@@ -77,3 +76,7 @@ The takeaway? **Whole foods trump processed ones**, but the fat-MPS relationship
 ### References
 
 [^1]: Zupančič, Ž., et al. (2025). Post-exercise muscle protein synthesis responses to pork burgers varying in fat content. *American Journal of Clinical Nutrition*. University of Illinois Urbana-Champaign.
+
+---
+
+*Track your protein with Jacked. Download now.*

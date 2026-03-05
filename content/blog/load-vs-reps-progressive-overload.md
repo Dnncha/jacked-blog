@@ -1,6 +1,5 @@
 ---
 title: "Load vs Reps: What the 2024-2025 Research Says About Progressive Overload"
-date: "2026-02-14"
 excerpt: "New studies compare adding weight versus adding reps for muscle and strength gains — and the results might surprise you."
 ---
 
@@ -68,3 +67,7 @@ Stop chasing arbitrary numbers. Start training smarter.
 **References:**
 - Scarpelli et al. (2024). Effects of Resistance Training Overload Progression Protocols on Strength and Muscle Mass. *International Journal of Sports Medicine*. PMID: 38286426
 - Network Meta-Analysis (2025). Autoregulated resistance training for maximal strength enhancement. *ScienceDirect*. PMC: PMC12336695
+
+---
+
+*Track your progressive overload with Jacked. Download now.*

@@ -1,6 +1,5 @@
 ---
 title: "Why Autoregulation Beats Traditional Training: The Science Behind Auto-Progression"
-date: "2026-02-14"
 excerpt: "A 2025 meta-analysis confirms what elite coaches have long suspected—autoregulated training produces superior strength gains compared to rigid percentage-based programs. Here's what the research means for your gains."
 ---
 
@@ -9,6 +8,8 @@ If you're still following a rigid percentage-based training program, science has
 But what exactly is autoregulation, and why should you care? Let's dive into the science.
 
 ## What Is Autoregulation?
+
+{{recovery-pyramid}}
 
 Traditional resistance training prescribes loads based on a percentage of your one-repetition maximum (1RM). If your bench press max is 100kg, you'd typically train at 70-80% of that—simple math, but it ignores one crucial factor: **you're not the same every day.**
 
@@ -21,6 +22,8 @@ The three main autoregulation methods are:
 3. **VBRT (Velocity-Based Resistance Training)**: Uses movement speed as a fatigue indicator
 
 ## The 2025 Meta-Analysis: What the Science Says
+
+{{recovery-pyramid}}
 
 Researchers conducted a systematic review and network meta-analysis examining which autoregulation method produces the greatest strength gains. The results were striking:
 
@@ -40,6 +43,8 @@ The conclusion was clear: **APRE, VBRT, and RPE were all significantly more effe
 
 ## Why Does Autoregulation Work Better?
 
+{{recovery-pyramid}}
+
 ### 1. Daily Fluctuations Are Real
 
 Your body doesn't exist in a vacuum. Research shows that factors like sleep quality, stress, hydration, and fatigue accumulate differently each day. A 2021 Frontiers in Physiology review noted that traditional percentage-based programs "do not account for daily fluctuations in athletes' physiological states, physical performance, and life stressors, which can lead to suboptimal load adjustments and an increased risk of injury."
@@ -53,6 +58,8 @@ Training to failure isn't necessary for hypertrophy—in fact, research shows tr
 By matching training stress to your actual recovery capacity, autoregulation prevents the "forced progression" that leads to overuse injuries. When you're under-recovered, autoregulation tells you to back off—your rigid program won't.
 
 ## Practical Applications: How to Autoregulate Your Training
+
+{{recovery-pyramid}}
 
 ### Method 1: RPE-Based Training
 
@@ -78,6 +85,8 @@ The simplest method for auto-progression:
 - This automatically adjusts based on your daily performance
 
 ## The Jacked Approach: Auto-Progression in Action
+
+{{recovery-pyramid}}
 
 Here's the thing: you don't need to become a spreadsheet warrior to benefit from autoregulation. **Jacked**, the autoprogression fitness app, handles all this complexity for you. It automatically adjusts your training weight based on your performance, ensuring you're always training at the optimal intensity—no math required.
 

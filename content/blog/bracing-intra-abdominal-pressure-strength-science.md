@@ -1,6 +1,5 @@
 ---
 title: "The Science of Bracing: How Intra-Abdominal Pressure Fuels Your Heaviest Lifts"
-date: "2026-02-16"
 excerpt: "Master the art of breathing and bracing to lift heavier, protect your spine, and maximize performance. Science breaks down the mechanics of intra-abdominal pressure."
 ---
 
@@ -100,3 +99,7 @@ Next time you approach a heavy set, remember: before you lift, you must first cr
 - Granacher, U., et al. (2015). "Effects of abdominal bracing training on strength and power." *Journal of Sports Science and Medicine*
 - Hackett, D., et al. (2012). "The Valsalva maneuver and resistance exercise." *British Journal of Sports Medicine*
 - Kim, J., et al. (2021). "Cardiovascular responses to Valsalva during resistance training." *International Journal of Exercise Science*
+
+---
+
+*Let Jacked track your bracing and lifting form. Download now.*

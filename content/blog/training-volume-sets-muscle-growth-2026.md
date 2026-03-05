@@ -1,6 +1,5 @@
 ---
 title: "The Science of Training Volume: How Many Sets Do You Really Need?"
-date: "2026-02-15"
 excerpt: "New meta-analyses reveal the optimal weekly set volume for muscle growth. The answer might surprise you—more isn't always better, but low-volume proponents have it wrong."
 ---
 
@@ -119,3 +118,7 @@ More training does lead to more gaining—at least until it doesn't.
 - Pelland et al. (2024). The Resistance Training Dose-Response: Meta-Regressions Exploring the Effects of Weekly Volume and Frequency on Muscle Hypertrophy and Strength Gains. *SportRxiv*
 - Pelland et al. (2025). Is There Too Much of a Good Thing? Meta-Regressions of the Effect of Per-Session Volume on Hypertrophy and Strength. *SportRxiv*
 - Stronger By Science. "More Training, More Gaining: Everything You Need to Know About Training Volume"
+
+---
+
+*Track your training volume with Jacked. Download now.*

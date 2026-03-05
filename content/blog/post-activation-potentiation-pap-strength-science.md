@@ -1,6 +1,5 @@
 ---
 title: "Post-Activation Potentiation: The Science of Using Heavy Warm-Ups to Lift More"
-date: "2026-02-16"
 excerpt: "Research-backed guide to post-activation potentiation (PAP) - how heavy singles before your working sets can boost strength and power output"
 ---
 
@@ -92,3 +91,7 @@ Use it strategically—fresh sessions, proper rest intervals, and appropriate lo
 - Garbisu-Hualde A, Santos-Concejero J. Post-activation potentiation in strength training: A systematic review of the scientific literature. *Journal of Strength and Conditioning Research*. 2025.
 - Karabel F, Makaracı Y. Optimal recovery time for post-activation performance enhancement after an acute bout of plyometric exercise. *Applied Sciences*. 2025;15(8):4079.
 - Acute effects of post-activation performance enhancement on half-squat training volume and repetition performance. *BMC Sports Science, Medicine and Rehabilitation*. 2026.
+
+---
+
+*Track your PAP with Jacked. Download now.*

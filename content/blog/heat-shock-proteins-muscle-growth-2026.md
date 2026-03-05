@@ -1,6 +1,5 @@
 ---
 title: "Heat Shock Proteins: The New Frontier in Muscle Growth Science"
-date: "2026-02-15"
 excerpt: "How heat exposure triggers cellular protection mechanisms that may revolutionize muscle building protocols."
 ---
 
@@ -114,3 +113,7 @@ The practical takeaway is simple: Don't fear the heat. A sauna session before yo
 [3] Peterson, D.D., & Adams, A.A. (2025). "Pre-exercise thermal stimulation improves performance and markers of hypertrophy in trained athletes." *Journal of Strength and Conditioning Research*, 39(12), 2714-2724.
 
 [4] Minor, M.U., et al. (2026). "Pharmacological HSP70 induction: Future directions for athletic performance." *Sports Medicine Open*, 12(1), 8.
+
+---
+
+*Track your heat training with Jacked. Download now.*

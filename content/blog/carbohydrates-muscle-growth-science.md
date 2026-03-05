@@ -1,6 +1,5 @@
 ---
 title: "Carbohydrates for Muscle Growth: The Science Behind Glycogen and Hypertrophy"
-date: "2026-02-15"
 excerpt: "Why carbohydrates are essential for maximizing muscle growth, with recent research on glycogen supercompensation, insulin's anabolic role, and optimal carb timing for strength athletes."
 ---
 
@@ -74,3 +73,7 @@ Low-carb diets may work for fat loss in some contexts, but if your goal is maxim
 [5] RP Strength (2025). How to Gain Muscle Fast: 3 Science-Based Diet Strategies.
 
 [6] nakednutrition.com (2025). Top 10 Power-Packed Pre-Workout Meals for Maximum Muscle Gains.
+
+---
+
+*Let Jacked optimize your nutrition and training. Download now.*

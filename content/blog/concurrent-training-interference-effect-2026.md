@@ -1,6 +1,5 @@
 ---
 title: "The Interference Effect: Can You Build Strength and Muscle Simultaneously?"
-date: "2026-02-15"
 excerpt: "Science reveals how to combine strength and hypertrophy training without sacrificing gains in either direction."
 ---
 
@@ -90,3 +89,7 @@ If you're serious about optimizing both qualities, consider your training age, r
 2. Frontiers in Physiology (2026). Network physiology perspective on cardio-neuromuscular trade-off
 3. J Strength Cond Res (2025). Meta-analysis of concurrent strength and hypertrophy training
 4. Hevy App Research (2026). PHUL Program effectiveness study
+
+---
+
+*Let Jacked balance your cardio and strength training. Download now.*

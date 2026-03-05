@@ -1,6 +1,5 @@
 ---
 title: "The Muscle Protein Synthesis Refractory Period: How Often Can You Maximize Growth?"
-date: "2025-02-15"
 excerpt: "Research reveals a 3-4 hour refractory period between muscle protein synthesis bouts. Learn how to optimize your protein timing for maximum hypertrophy."
 ---
 
@@ -103,3 +102,7 @@ The total daily protein (1.6-2.2g/kg body weight) matters more than exact timing
 [4] MDPI Nutrients (2013). "Influence of Amino Acids, Dietary Protein, and Physical Activity on Muscle Mass Development in Humans." https://www.mdpi.com/2072-6643/5/3/852
 
 [5] Fit Beside Health (2025). "The Complete Guide to Hypertrophy Training." https://fitbesideshealth.com/hypertrophy-training/
+
+---
+
+*Track your MPS with Jacked. Download now.*

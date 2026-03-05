@@ -1,6 +1,5 @@
 ---
 title: "Grip Strength: The Simple Metric That Predicts Longevity and Muscle Building Success"
-date: "2026-02-15"
 excerpt: "New research confirms what serious lifters have long suspected—grip strength is far more than just a party trick. It's a powerful predictor of muscle growth potential, overall strength, and even lifespan."
 ---
 
@@ -92,3 +91,7 @@ Train your grip directly, track your progress, and consider it alongside traditi
 [5] Stronger by Science. "The Evidence-Based Guide to Grip Strength Training & Forearm Muscle Development."
 
 [6] European Working Group on Sarcopenia in Older People (EWGSOP) criteria for sarcopenia diagnosis.
+
+---
+
+*Track your grip strength with Jacked. Download now.*

@@ -1,6 +1,5 @@
 ---
 title: "HMB Supplementation: Does Beta-Hydroxy Beta-Methylbutyrate Actually Work for Muscle Building?"
-date: "2026-02-15"
 excerpt: "HMB has been marketed as a powerful muscle-building supplement for decades. But what does the latest 2025-2026 research actually say about its effectiveness for lifters?"
 ---
 
@@ -97,3 +96,7 @@ For the average healthy lifter eating adequate protein, HMB is probably unnecess
 [3] Frontiers in Nutrition. "Effects of oral supplementation of β-hydroxy-β-methylbutyrate on muscle mass and strength in individuals over the age of 50: a meta-analysis." 2025.
 
 [4] Nutrients. "The Role of HMB Supplementation in Enhancing the Effects of Resistance Training in Older Adults: A Systematic Review and Meta-Analysis." 2025.
+
+---
+
+*Track your supplements with Jacked. Download now.*

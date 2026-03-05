@@ -1,6 +1,5 @@
 ---
 title: "The Science of Dynamic Warm-Ups for Strength Training"
-date: "2026-02-15"
 excerpt: "Why static stretching kills your gains—and what the research says about the optimal warm-up routine for maximum performance and injury prevention."
 ---
 
@@ -126,3 +125,7 @@ Skip the static stretching before lifting. Your PRs will thank you.
 [^1]: Dynamic Warm-ups Play a Pivotal Role in Athletic Performance and Injury Prevention. *Journal of Functional Morphology and Kinesiology*, 2024. PMC12034053.
 
 [^2]: Behm DG, Chaouachi A. A review of the acute effects of static and dynamic stretching on performance. *European Journal of Applied Physiology*. 2024.
+
+---
+
+*Track your warm-ups with Jacked. Download now.*

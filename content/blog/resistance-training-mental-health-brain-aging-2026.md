@@ -1,6 +1,5 @@
 ---
 title: "Resistance Training for Mental Health: The Science Behind Lifting Depression"
-date: "2026-02-15"
 excerpt: "Groundbreaking 2026 research shows exercise rivals therapy for depression—with resistance training proving more effective than aerobic exercise alone. Plus: how heavy lifting can shave years off your brain age."
 ---
 
@@ -122,3 +121,7 @@ The weights don't just build muscle. They build resilience—physical and mental
 1. Clegg A, et al. "Exercise for depression." Cochrane Database of Systematic Reviews 2026.
 2. "Randomized controlled trial of resistance exercise and brain aging clocks." GeroScience, 2026.
 3. "Benefits of resistance exercise training in treatment of anxiety and depression." ScienceDaily, 2024.
+
+---
+
+*Track your mental health with Jacked. Download now.*

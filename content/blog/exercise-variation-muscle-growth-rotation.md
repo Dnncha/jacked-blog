@@ -1,6 +1,5 @@
 ---
 title: "Exercise Variation and Muscle Growth: When to Switch Things Up"
-date: "2026-02-16"
 excerpt: "Sticking with the same exercises for months? The science says you might be leaving gains on the table. Here's when and why to rotate your exercises."
 ---
 
@@ -135,3 +134,7 @@ Keep your compounds relatively consistent, rotate your secondary lifts every 4-8
 - Schoenfeld et al. (2024). Effects of Resistance Exercise Order on Muscle Thickness in Trained Men. *Journal of Strength and Conditioning Research*. PMID: 38415692
 - Fonseca et al. (2024). Muscle Adaptation to Variable Resistance Training. *Frontiers in Physiology*. PMID: 38256789
 - Saric et al. (2025). Exercise Rotation and Hypertrophy: A Systematic Review. *Sports Medicine Open*.
+
+---
+
+*Track your exercise variation with Jacked. Download now.*

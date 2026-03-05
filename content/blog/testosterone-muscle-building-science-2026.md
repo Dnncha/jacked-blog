@@ -1,6 +1,5 @@
 ---
 title: "Testosterone and Muscle Building: What Science Actually Says in 2026"
-date: "2026-02-16"
 excerpt: "Separating facts from fiction about testosterone's role in muscle growth — and what you can actually do about it."
 ---
 
@@ -87,3 +86,7 @@ If you're genuinely concerned about low testosterone (symptoms like fatigue, low
 [8] Pokrywka, A. et al. (2025). Analysis of testosterone-boosting supplements. *Nutrients*.
 
 [9] Ahtiainen, J.P. et al. (2024). Acute hormonal responses to different resistance training protocols. *European Journal of Applied Physiology*.
+
+---
+
+*Track your testosterone with Jacked. Download now.*

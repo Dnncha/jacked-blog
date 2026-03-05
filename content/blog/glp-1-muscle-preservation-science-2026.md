@@ -1,6 +1,5 @@
 ---
 title: "GLP-1 Weight Loss Drugs and Muscle Preservation: The Science Behind Keeping Your Gains"
-date: "2026-02-16"
 excerpt: "With 12% of US adults now using GLP-1 agonists for weight loss, the biggest concern isn't fat loss—it's muscle loss. Here's what the research says about preserving lean tissue during pharmacological weight loss."
 ---
 
@@ -102,3 +101,7 @@ If you're using GLP-1 medications, treat your training and nutrition as seriousl
 4. "New GLP-1 Therapies Enhance Quality of Weight Loss by Improving Muscle Preservation." American Diabetes Association. 2025.
 5. "Potential Breakthrough to Preserve Lean Muscle Mass During GLP-1-Induced Weight Loss." Velocity Clinical Research. September 2025.
 6. "Impact of Semaglutide on fat mass, lean mass and muscle function in patients with obesity: The SEMALEAN study." *PubMed*. 2025.
+
+---
+
+*Track your muscle preservation with Jacked. Download now.*

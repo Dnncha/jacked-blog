@@ -1,6 +1,5 @@
 ---
 title: "Tempo Training Science: The Complete Guide to Repetition Speed for Muscle Growth"
-date: "2026-02-16"
 excerpt: "Does slowing down your reps build more muscle? We examine the 2024-2026 research on repetition tempo and what it means for your training."
 ---
 
@@ -126,3 +125,7 @@ The best tempo is the one you can maintain while progressively overloading your 
 2. Kojic, F., et al. (2025). "The effects of eccentric phase tempo in squats on hypertrophy, strength, and contractile properties of the quadriceps femoris." *Frontiers in Physiology*.
 3. "How slow should you go? A systematic review with meta-analysis of the effect of resistance training repetition tempo on muscle hypertrophy." *Journal of Strength and Conditioning Research*, 2025.
 4. "Optimizing Resistance Training Technique to Maximize Muscle Hypertrophy: A Narrative Review." *MDPI*, 2024.
+
+---
+
+*Track your tempo training with Jacked. Download now.*

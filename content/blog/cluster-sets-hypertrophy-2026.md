@@ -1,6 +1,5 @@
 ---
 title: "Cluster Sets: The Science Behind Rest-Paused Training for Muscle Growth"
-date: "2026-02-15"
 excerpt: "New 2025-2026 research confirms cluster sets build muscle just as effectively as traditional sets—while potentially reducing fatigue and keeping your strength training fresh."
 ---
 
@@ -82,3 +81,7 @@ Give them a try on your next leg day. Your knees (and your central nervous syste
 [^2]: ScienceForSport. "Cluster Sets." https://www.scienceforsport.com/cluster-sets/
 
 [^3]: Güngör et al. (2025). "Acute Effects of Traditional Versus Cluster Set Upper Body Resistance Training on Heart Rate Variability and Blood Pressure in Trained Men." *European Journal of Sport Science*. https://onlinelibrary.wiley.com/doi/full/10.1002/ejsc.70006
+
+---
+
+*Track your cluster sets with Jacked. Download now.*

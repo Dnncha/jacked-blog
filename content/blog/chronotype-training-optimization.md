@@ -1,6 +1,5 @@
 ---
 title: "Chronotype Training: Match Your Workout to Your Biological Clock"
-date: "2026-02-16"
 excerpt: "Why training at the wrong time for your chronotype is like fighting your circadian rhythm—and how to optimize your schedule for maximum gains."
 ---
 
@@ -100,3 +99,7 @@ The key insight: respect your biology. Your chronotype isn't a limitation—it's
 - Journal of Circadian Rhythms (2025). "Hormonal Patterns and Training Optimization"
 - Chronobiology International (2025). "Entrained Awakening and Exercise Timing"
 - Sports Medicine (2025). "Chronotype-Specific Training Adaptations"
+
+---
+
+*Let Jacked optimize your training timing. Download now.*

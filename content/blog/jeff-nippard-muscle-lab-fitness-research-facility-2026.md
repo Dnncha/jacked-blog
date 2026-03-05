@@ -1,6 +1,5 @@
 ---
 title: "Jeff Nippard's Muscle Lab: The Future of Science-Based Fitness or Influencer Gimmick?"
-date: "2026-02-16"
 excerpt: "Jeff Nippard just opened a $M Muscle Lab with DEXA, ultrasound, and BIA machines. We examine what this means for the science-based fitness movement and whether it will actually move the needle on exercise science."
 ---
 
@@ -117,3 +116,7 @@ The Muscle Lab is worth watching. But your best investment isn't the latest supp
 - Nippard, J. (2025). Muscle Lab facility announcement. Muscle & Fitness.
 - Nippard, J. (2025). MacroFactor app development and funding.
 - International Society of Sports Nutrition position stands on protein and training.
+
+---
+
+*Track your training with Jacked. Download now.*

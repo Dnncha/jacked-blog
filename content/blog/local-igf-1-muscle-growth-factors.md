@@ -1,6 +1,5 @@
 ---
 title: "The Local IGF-1 System: How Your Muscles Create Their Own Growth Factors"
-date: "2026-02-16"
 excerpt: "Beyond systemic hormones—discover how your muscles produce their own IGF-1 variants (MGF and IGF-1Ea) in response to mechanical tension, and why this matters for hypertrophy."
 ---
 
@@ -126,3 +125,7 @@ This is why the fundamentals of hypertrophy haven't changed: lift heavy, eat pro
 3. Chakravarthy MV, et al. IGF-I is necessary for exercise-induced mesenchymal stem cell mobilization. *J Appl Physiol*. 2010.
 4. Serrão FV, et al. Mechanogrowth factor (MGF) expression in skeletal muscle after strength training. *Int J Sports Med*. 2019.
 5. Grounds MD. Age-associated changes in the response of skeletal muscle cells to exercise and regeneration. *Ann N Y Acad Sci*. 1998.
+
+---
+
+*Track your IGF-1 with Jacked. Download now.*

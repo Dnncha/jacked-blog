@@ -1,6 +1,5 @@
 ---
 title: "Training Time of Day: How Circadian Rhythms Affect Muscle Growth"
-date: "2026-02-15"
 excerpt: "Science reveals your body's internal clock significantly impacts strength, muscle protein synthesis, and training adaptations. Here's how to optimize your workout timing."
 ---
 
@@ -104,3 +103,7 @@ The best training time is ultimately the one you can stick to consistently. Howe
 [2] Time of Day and Muscle Strength: A Circadian Output? *Frontiers in Physiology* (2021). https://pmc.ncbi.nlm.nih.gov/articles/PMC8425416/
 
 [3] Effects of time of day-specific resistance training on adaptations in skeletal muscle hypertrophy and muscle strength: A systematic review and meta-analysis. *PubMed* (2019). https://pubmed.ncbi.nlm.nih.gov/30704301/
+
+---
+
+*Track your training timing with Jacked. Download now.*

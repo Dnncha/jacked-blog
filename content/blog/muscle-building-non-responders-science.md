@@ -1,6 +1,5 @@
 ---
 title: "Why Some Lifters Don't Grow: The Science of Non-Responders and What to Do About It"
-date: "2026-02-15"
 excerpt: "Not everyone responds equally to the same training program. New research reveals why some people don't build muscle—and the simple fix that works."
 ---
 
@@ -158,3 +157,7 @@ The science says your muscles want to grow. Sometimes they just need the right s
 3. Journal of Physiology (2025). "Resistance training load does not determine resistance training-induced hypertrophy across upper and lower limbs"
 
 4. Frontiers in Physiology (2025). "Neuromuscular adaptations to resistance training in elite versus recreational athletes"
+
+---
+
+*Track your training response with Jacked. Download now.*

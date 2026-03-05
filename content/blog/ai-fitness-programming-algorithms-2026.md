@@ -1,6 +1,5 @@
 ---
 title: "AI in Fitness Programming: How Smart Algorithms Are Replacing Static Workout Plans"
-date: "2026-02-15"
 excerpt: "Discover how artificial intelligence is revolutionizing workout programming through personalized, adaptive algorithms that optimize progressive overload in real-time."
 ---
 
@@ -99,6 +98,15 @@ Looking ahead, several developments will shape AI fitness programming:
 **Multi-Modal Adaptation**: Future algorithms may adjust programming based on stress outside the gym—work deadlines, relationship challenges, travel—recognizing that life stress impacts recovery.
 
 **Hybrid Coaching**: AI handles programming and tracking; human coaches provide motivation, accountability, and nuanced adjustments that algorithms can't yet replicate.
+
+## Recovery Strategy
+{{recovery-pyramid}}
+
+## Muscle Protein Synthesis Timeline
+{{mps-timeline}}
+
+## Training vs Recovery
+{{stress-balance}}
 
 ## Practical Takeaways
 

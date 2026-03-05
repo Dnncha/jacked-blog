@@ -1,6 +1,5 @@
 ---
 title: "Sarcoplasmic vs Myofibrillar Hypertrophy: What Science Actually Says"
-date: "2026-02-16"
 excerpt: "The age-old bodybuilding debate finally answered with 2025 research. Does pump training actually build different muscle than heavy lifting?"
 ---
 
@@ -70,3 +69,7 @@ Stop worrying about which "type" you're building. Focus on progressive overload,
 - Trappe et al. (2020). Sarcoplasmic Hypertrophy in Skeletal Muscle. *PMC*
 - Sport Sciences for Health (2025). Myofibril vs Sarcoplasmic Training Effects. *Springer Nature*
 - Stronger By Science (2020). Sarcoplasmic Hypertrophy: The Bros Were Probably Right
+
+---
+
+*Track your hypertrophy with Jacked. Download now.*

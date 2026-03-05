@@ -1,6 +1,5 @@
 ---
 title: "Supercompensation & Functional Overreaching: The Science of Strategic Fatigue"
-date: "2025-02-15"
 excerpt: "Understanding how strategic fatigue followed by proper recovery drives muscle growth—and how to apply it in your training."
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: "Muscle Damage & DOMS: What Science Really Says About Soreness and Growth"
-date: "2026-02-15"
 excerpt: "Does muscle damage drive hypertrophy, or is it just a sign you pushed too hard? We break down the 2025-2026 research on DOMS, recovery interventions, and the muscle damage hypothesis."
 ---
 

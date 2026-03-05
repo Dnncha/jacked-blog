@@ -1,6 +1,5 @@
 ---
 title: "Exercise Biomechanics: How Grip Width, Stance, and Leverage Affect Muscle Activation"
-date: "2026-02-15"
 excerpt: "Science reveals how small changes in your exercise setup dramatically shift which muscles do the heavy lifting."
 ---
 
@@ -114,3 +113,7 @@ Your body responds to mechanical demand. Control the levers, and you control the
 4. Escamilla RF, et al. Stance width and bar load effects on leg muscle activity. J Strength Cond Res. 2001.
 5. Scandinavian Journal of Medicine & Science in Sports. 2024;34:e14709.
 6. Frontiers in Physiology. 2025;16:1681591.
+
+---
+
+*Track your biomechanics with Jacked. Download now.*

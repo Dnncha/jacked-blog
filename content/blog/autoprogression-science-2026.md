@@ -1,6 +1,5 @@
 ---
 title: "The Science of Autoprogression: How Automatic Weight Increases Revolutionize Muscle Building"
-date: "2026-02-15"
 excerpt: "Discover how autoprogression uses real-time feedback to optimize your training stimulus and maximize muscle growth without the guesswork."
 ---
 
@@ -12,6 +11,8 @@ This is where autoprogression comes in, and the science behind it is genuinely e
 
 ## What Is Autoprogression?
 
+{{recovery-pyramid}}
+
 Autoprogression is a training methodology where weight increases are automatically adjusted based on your real-time performance and recovery status. Unlike traditional fixed progressions (add 5lbs every week regardless), autoprogression systems respond to:
 
 - **Actual performance** - Did you hit your target reps?
@@ -22,6 +23,8 @@ Autoprogression is a training methodology where weight increases are automatical
 The concept builds directly on autoregulation theory, pioneered by researchers like Dr. Mike Zourdos and the late Dr. Michael Stone. Their work established that rigid training prescriptions ignore the fundamental variability in human performance.
 
 ## The Research Behind Autoregulation
+
+{{recovery-pyramid}}
 
 A 2025 systematic review and network meta-analysis published in *ScienceDirect* examined autoregulated progressive resistance exercise (APRE), RPE-based training, and traditional fixed-load training. The findings strongly favor autoregulated approaches for maximal strength enhancement.
 
@@ -38,6 +41,8 @@ The problem with "add 5lbs every week" is that it assumes:
 Real-world data shows none of these assumptions hold consistently. Studies using daily undulating periodization and autoregulation demonstrate significantly less inter-set variability in performance when training is adjusted based on readiness.
 
 ## How Autoprogression Systems Work
+
+{{recovery-pyramid}}
 
 Modern autoprogression typically uses one of three frameworks:
 
@@ -62,6 +67,8 @@ Research from the *Journal of Sports Science* confirms velocity loss serves as a
 
 ## The Jacked Approach: Autoprogression in Action
 
+{{recovery-pyramid}}
+
 The Jacked app implements autoprogression by:
 
 1. **Setting target rep ranges** based on your goals
@@ -71,7 +78,14 @@ The Jacked app implements autoprogression by:
 
 This removes the mental overhead of "should I add weight today?" and ensures you're always training in the optimal zone—not too easy (no growth stimulus) and not too hard (injury risk, burnout).
 
+## Training Stress vs Recovery
+
+{{recovery-pyramid}}
+{{stress-balance}}
+
 ## Practical Implementation
+
+{{recovery-pyramid}}
 
 Want to try autoprogression without an app? Here's a simple framework:
 
@@ -85,6 +99,8 @@ Want to try autoprogression without an app? Here's a simple framework:
 - When you hit RPE 9+, deload or reduce weight
 
 ## The Bottom Line
+
+{{recovery-pyramid}}
 
 Autoprogression isn't about working harder—it's about working smarter. By letting your actual performance dictate progression rather than arbitrary calendar dates, you optimize for:
 

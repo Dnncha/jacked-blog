@@ -1,6 +1,5 @@
 ---
 title: "The Sleep-Muscle Connection: 2025 Research on How Sleep Builds Muscle"
-date: "2026-02-15"
 excerpt: "New Cell paper reveals the neural circuit linking deep sleep to growth hormone release—and why your gains depend on sleep quality, not just duration."
 ---
 
@@ -73,3 +72,7 @@ For maximum hypertrophy, treat sleep with the same seriousness as your training.
 **References:**
 - Ding X. et al. (2025). Neuroendocrine circuit for sleep-dependent growth hormone release. *Cell*, 188(18). DOI: 10.1016/j.cell.2025.05.039
 - University of California, Berkeley (2025). "The sleep switch that builds muscle, burns fat, and boosts brainpower." *ScienceDaily*.
+
+---
+
+*Track your sleep with Jacked. Download now.*

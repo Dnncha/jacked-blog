@@ -1,6 +1,5 @@
 ---
 title: "The Science of Creatine: What 2025 Research Really Says"
-date: "2026-02-15"
 excerpt: "Creatine remains the most researched sports supplement. We break down the latest 2024-2025 findings on muscle growth, timing, and optimal dosing."
 ---
 
@@ -86,3 +85,7 @@ If you're not taking creatine and you're training hard, you're leaving gains on 
 - Haniel et al. (2025). Effects of creatine supplementation on muscle strength gains. *PeerJ*.
 - Creatine supplementation and lifespan benefits. *Frontiers in Nutrition* (2025).
 - Antonio J, Ciccone V. (2013). Effects of pre vs post workout creatine. *Journal of the International Society of Sports Nutrition*.
+
+---
+
+*Track your creatine and training with Jacked. Download now.*

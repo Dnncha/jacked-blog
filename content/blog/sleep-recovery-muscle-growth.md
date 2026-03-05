@@ -1,6 +1,5 @@
 ---
 title: "The Science of Sleep and Recovery: Why Your Gains Are Made in Bed"
-date: "2026-02-14"
 excerpt: "You can train perfectly and nail your nutrition, but without proper sleep, you're leaving muscle on the table. Recent research reveals why sleep is the most underrated factor in muscle building."
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: "Why Strength Athletes Need Cardio: The Science of Concurrent Training"
-date: "2026-02-15"
 excerpt: "Most lifters treat cardio like a necessary evil. Science shows they're missing out on serious performance gains."
 ---
 
@@ -113,3 +112,7 @@ Your strength training builds the engine. Cardio ensures it keeps running smooth
 - Chen Y, et al. (2024). Cardiovascular fitness and training adaptation in strength athletes. *PMC*.
 - Gaetz G, et al. (2020). VO2max and repeated sprint ability in athletes. *PubMed*.
 - Seiler S, et al. (2023). Practical guidelines for polarized training in athletes. *ScienceDirect*.
+
+---
+
+*Want an app that balances your cardio and strength training? Download Jacked.*

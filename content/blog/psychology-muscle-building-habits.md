@@ -1,6 +1,5 @@
 ---
 title: "The Psychology of Consistency: How to Build Muscle-Building Habits That Actually Stick"
-date: "2026-02-16"
 excerpt: "Science reveals why most lifters quit—and the exact mental strategies that transform occasional workouts into a lifelong muscle-building habit."
 ---
 

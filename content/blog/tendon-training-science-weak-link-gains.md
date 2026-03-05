@@ -1,6 +1,5 @@
 ---
 title: "Tendon Training Science: Why Your Tendons Are Limiting Your Gains"
-date: "2026-02-16"
 excerpt: "Your muscles get all the glory, but your tendons are the weak link. Science shows tendon adaptation follows different rules than muscle—here's how to train them properly."
 ---
 
@@ -102,3 +101,7 @@ Ignore your tendons at your peril. They'll eventually remind you who's really in
 [3] Journal of Musculoskeletal Surgery and Research (2025). Tendons under load: Understanding pathology and progression.
 
 [4] McMahon et al. (2025). Isometric training at longer muscle-tendon complex lengths. *Experimental Physiology*.
+
+---
+
+*Track your tendon training with Jacked. Download now.*

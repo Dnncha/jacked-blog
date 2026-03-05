@@ -1,6 +1,5 @@
 ---
 title: "Why Your Daily Step Count Matters for Muscle Growth"
-date: "2026-02-15"
 excerpt: "Beyond the gym: how non-exercise activity affects your hypertrophy gains and what the 2025-2026 research reveals."
 ---
 

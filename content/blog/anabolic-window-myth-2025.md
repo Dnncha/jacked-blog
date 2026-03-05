@@ -1,6 +1,5 @@
 ---
 title: "The Anabolic Window: Myth vs. Science (2025 Research Update)"
-date: "2025-02-15"
 excerpt: "The 30-minute post-workout window is one of fitness's most persistent myths. Here's what 2025 research actually says about protein timing and muscle protein synthesis."
 ---
 
@@ -56,6 +55,15 @@ Here's why this works:
 
 3. **Stable amino acid levels** — Distributing protein keeps amino acids in your bloodstream, ready to fuel recovery and muscle building between meals.
 
+## Recovery Strategy
+{{recovery-pyramid}}
+
+## Muscle Protein Synthesis Timeline
+{{mps-timeline}}
+
+## Training Stress vs Recovery
+{{stress-balance}}
+
 ## Practical Guidelines (2025 Consensus)
 
 Based on the latest research, here's what actually works:
@@ -87,6 +95,14 @@ The 30-minute anabolic window is **not supported by current evidence**. What mat
 4. **Don't stress timing** — have protein within a few hours of training, but don't panic if it's 60 or 90 minutes later
 
 Your muscles don't check the clock. They just need consistent feeding, adequate total intake, and proper training stimulus.
+
+---
+
+*Focus on total daily protein intake first. Timing matters less than most people think.*
+
+---
+
+*Want an app that tracks your protein and progressive overload? Download Jacked.*
 
 ---
 

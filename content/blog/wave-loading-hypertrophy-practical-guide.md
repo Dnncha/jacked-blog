@@ -1,6 +1,5 @@
 ---
 title: "Wave Loading for Hypertrophy: A Practical Guide to Breaking Plateaus"
-date: "2026-02-16"
 excerpt: "Wave loading lets you manipulate intensity in waves rather than linear progression. Learn how to use this powerful periodization technique to maximize muscle growth and break through plateaus."
 ---
 
@@ -157,3 +156,7 @@ The key: consistent application, accurate tracking, and trusting the wave. Your 
 - Kraemer, W.J., et al. (2024). "Effects of Wave Loading on Strength and Hypertrophy in Resistance-Trained Males." *Journal of Strength and Conditioning Research*
 - Haff, G.G., et al. (2025). "Periodization of Training: Theory and Practice." *Sports Medicine*
 - Zourdos, M.C., et al. (2025). "Modified Daily Undulating Periodization Model." *Journal of Human Kinetics*
+
+---
+
+*Track your wave loading with Jacked. Download now.*

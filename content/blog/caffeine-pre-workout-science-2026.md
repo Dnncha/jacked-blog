@@ -1,6 +1,5 @@
 ---
 title: "Caffeine and Pre-Workout: What Science Actually Says in 2026"
-date: "2026-02-15"
 excerpt: "We analyzed the latest 2025-2026 research to give you evidence-based recommendations on caffeine dosing, timing, and how to maximize your pre-workout boost without ruining your sleep."
 ---
 
@@ -127,3 +126,7 @@ Caffeine remains one of the most effective, legal, and affordable ergogenic aids
 - Silva H, et al. (2025). Caffeine and Sports Performance: The Conflict between Caffeine Intake to Enhance Performance and Avoiding Caffeine to Ensure Sleep Quality. *Sports Med*.
 - Xue R, et al. (2025). Effects of Caffeine Dose and Administration Method on Time-Trial Performance: A Systematic Review and Network Meta-Analysis. *Nutrients*.
 - Li W, et al. (2026). Caffeine ingestion before exercise improves prolonged intermittent-sprint performance of team-sport athletes in normobaric hypoxia. *Frontiers in Nutrition*.
+
+---
+
+*Want an app that optimizes your pre-workout routine? Download Jacked.*

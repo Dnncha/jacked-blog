@@ -1,6 +1,5 @@
 ---
 title: "The Muscle Growth Timeline: From Workout to New Muscle"
-date: "2026-02-15"
 excerpt: "Understanding the exact sequence of events after training—from muscle damage to protein synthesis to actual hypertrophy—and what it means for your programming"
 ---
 
@@ -76,3 +75,7 @@ The science is clear: the muscle growth timeline is longer than most people thin
 **References**:
 - Bello ML, et al. (2026). Muscle Hypertrophy, Strength, and Salivary Hormone Changes Following 9 Weeks of High- or Low-Load Resistance Training. *Journal of Functional Morphology and Kinesiology*, 11(1):17.
 - Nutrition and Exercise Research (2025). Whey Protein Supplementation Combined with Exercise on Muscle Protein Synthesis and the AKT/mTOR Pathway. *Nutrients*, 17(16):2579.
+
+---
+
+*Track your muscle growth timeline with Jacked. Download now.*

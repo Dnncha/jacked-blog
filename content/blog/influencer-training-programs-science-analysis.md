@@ -1,6 +1,5 @@
 ---
 title: "Influencer Training Programs Decoded: What Science Says About Jeff Nippard, Mike Mentzer, and Competing Systems"
-date: "2026-02-16"
 excerpt: "We analyze the training methodologies of fitness YouTubers through the lens of current research. Which approaches actually build muscle, and which are overhyped?"
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: "The Science of Deload Weeks: When to Rest for Maximum Gains"
-date: "2026-02-15"
 excerpt: "Research shows deload weeks may not boost hypertrophy, but they're crucial for long-term progress and injury prevention. Here's what the science actually says."
 ---
 

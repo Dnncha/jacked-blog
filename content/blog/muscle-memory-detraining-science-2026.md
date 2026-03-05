@@ -1,6 +1,5 @@
 ---
 title: "Muscle Memory: The Science of Losing Gains (And Getting Them Back Faster)"
-date: "2026-02-15"
 excerpt: "New 2025 research reveals that your muscles actually remember training. Here's what science says about detraining, myonuclear permanence, and how to come back stronger after time off."
 ---
 
@@ -83,3 +82,7 @@ So next time life forces you to take a break? Don't stress. Your muscles are wai
 - Frontiers in Nutrition (2025). "Skeletal muscle memory: implications for sports, aging and nutrition"
 - Journal of Physiology (2025). "Human skeletal muscle possesses both reversible proteomic signatures and a retained proteomic memory after repeated resistance training"
 - Transparent Labs (2025). "Muscle Memory: How Fast Can You Rebuild Lost Gains?"
+
+---
+
+*Track your muscle memory with Jacked. Download now.*

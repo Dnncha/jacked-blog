@@ -1,6 +1,5 @@
 ---
 title: "Daily Undulating Periodization vs Linear Periodization: What the Science Says in 2026"
-date: "2026-02-15"
 excerpt: "Which periodization model builds more muscle? We analyze the latest 2025 research comparing DUP, linear, and block periodization for hypertrophy."
 ---
 
@@ -131,3 +130,7 @@ The best periodization model is the one you'll actually follow consistently. Sta
 1. Moesgaard L, Beck MM, Christiansen L, et al. (2025). Effects of Periodization on Strength and Muscle Hypertrophy in Volume-Equated Resistance Training Programs: A Systematic Review and Meta-analysis. *Health, Sport, Rehabilitation.*
 2. Lopez P, et al. (2025). Neuromuscular adaptations to resistance training in elite versus recreational athletes. *Frontiers in Physiology.*
 3. IsraeteL M, Hoffmann J, Davis M. (2026). Scientific Principles of Hypertrophy Training: Renaissance Periodization.
+
+---
+
+*Track your periodization with Jacked. Download now.*

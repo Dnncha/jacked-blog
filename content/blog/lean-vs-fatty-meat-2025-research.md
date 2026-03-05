@@ -1,6 +1,5 @@
 ---
 title: "Lean vs Fatty Meat: The Surprising 2025 Research That Changes Everything"
-date: "2026-02-15"
 excerpt: "New research reveals that lean pork may outperform fatty cuts for post-workout muscle growth—challenging what we thought we knew about dietary fat and hypertrophy."
 ---
 
@@ -69,3 +68,7 @@ Your gains come from training hard first. Use nutrition to squeeze out the remai
 [2] Burd NA, et al. Greater stimulation of muscle-protein synthesis in young men after eating whole eggs compared to egg whites. *American Journal of Clinical Nutrition*.
 
 [3] Burd NA, et al. Salmon consumption enhances post-exercise muscle-protein synthesis compared to processed fish protein. *Journal of Nutrition*.
+
+---
+
+*Track your meat protein with Jacked. Download now.*

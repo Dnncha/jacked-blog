@@ -1,6 +1,5 @@
 ---
 title: "Blood Flow Restriction Training: The Science Behind Growing Muscle with Light Weights"
-date: "2026-02-15"
 excerpt: "BFRT lets you build muscle using just 30% of your max weight. Here's what 2025 research says about its effectiveness, sex differences, and how to use it safely."
 ---
 
@@ -8,11 +7,15 @@ What if you could build serious muscle without ever lifting heavy? Blood flow re
 
 ## What is BFR Training?
 
+{{recovery-pyramid}}
+
 Blood flow restriction training involves wrapping a pneumatic cuff around the proximal part of your limb (upper thigh or upper arm) to partially restrict venous return while you exercise with light loads—typically 20-30% of your one-repetition maximum.
 
 The concept sounds counterintuitive: how can lifting tiny weights build muscle? The answer lies in metabolic stress combined with partial occlusion.
 
 ## The 2025 Research: BFR vs Traditional Training
+
+{{recovery-pyramid}}
 
 A landmark study published in *PLOS ONE* (January 2025) put BFR to the test. Thirty-eight adults performed whole-body resistance training with blood flow restriction three times per week for six weeks using just 30% of their 1RM. The cuffs were set to 60% of each individual's limb occlusion pressure.
 
@@ -21,6 +24,8 @@ A landmark study published in *PLOS ONE* (January 2025) put BFR to the test. Thi
 But here's where it gets interesting: the study found a significant *sex difference*. While both sexes gained similar amounts of lean mass, males showed greater strength improvements in chest press, seated row, knee flexion, and knee extension. This aligns with what we know about hormonal differences in training adaptation.
 
 ## How It Works: The Mechanisms
+
+{{recovery-pyramid}}
 
 Multiple meta-analyses (published 2024-2025) confirm BFR's effectiveness and point to several mechanisms:
 
@@ -36,6 +41,8 @@ A 2024 meta-analysis in *MDPI Biology* found that low-load BFR produced muscle h
 
 ## Practical Applications
 
+{{recovery-pyramid}}
+
 BFR isn't just a gimmick. It's particularly valuable for:
 
 - **Rehabilitation:** Build muscle while protecting healing joints and tendons
@@ -44,6 +51,8 @@ BFR isn't just a gimmick. It's particularly valuable for:
 - **Older Adults:** Preserve muscle mass with manageable loads
 
 ## Safety Considerations
+
+{{recovery-pyramid}}
 
 BFR isn't for everyone. Meta-analyses note these contraindications:
 
@@ -56,13 +65,21 @@ Start with lower pressures (40-50% occlusion) and shorter sessions. The pumps ca
 
 ## The Verdict
 
+{{recovery-pyramid}}
+
 The 2025 evidence is clear: blood flow restriction training works. You *can* build muscle with light weights—if you're willing to embrace the burn and follow the protocols. It's not a replacement for heavy training, but it's a powerful tool in your arsenal.
 
 **Key Takeaway:** BFR at 30% 1RM with cuffs at 50-60% occlusion produces meaningful hypertrophy. Males may see greater strength gains, but both sexes add lean mass at similar rates.
 
 ---
 
+*Track your training and progressive overload with Jacked. Download now.*
+
+---
+
 ## References
+
+{{recovery-pyramid}}
 
 1. Nancekievill D, Seaman K, Bouchard DR, Thomson AM, Sénéchal M (2025). Impact of exercise with blood flow restriction on muscle hypertrophy and performance outcomes in men and women. *PLOS ONE* 20(1): e0301164.
 

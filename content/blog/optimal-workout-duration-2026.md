@@ -1,6 +1,5 @@
 ---
 title: "The 30-Minute Workout: Why Less Training Time May Build More Muscle"
-date: "2026-02-15"
 excerpt: "New research suggests you don't need hours in the gym. Here's the science behind shorter, more effective training sessions and how to optimize your workout efficiency."
 ---
 
@@ -110,3 +109,7 @@ Your muscles don't care how long you train. They respond to tension, proximity t
 - Journal of Applied Physiology (2024-2025) - Muscle growth without increasing intensity
 - Medical Xpress (2025) - "Less is more: To build muscle and gain strength, train smarter—not longer"
 - MDPI - Optimizing Resistance Training Technique to Maximize Muscle Hypertrophy
+
+---
+
+*Track your workout duration with Jacked. Download now.*

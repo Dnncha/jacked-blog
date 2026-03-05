@@ -1,6 +1,5 @@
 ---
 title: "Longitudinal Hypertrophy: The mTOR-Independent Pathway Changing How We Understand Muscle Growth"
-date: "2026-02-16"
 excerpt: "New research reveals muscle growth happens through two distinct pathways - radial thickening (mTOR-dependent) and longitudinal lengthening (mTOR-independent). What this means for your training."
 ---
 
@@ -114,3 +113,7 @@ The mTOR-centric view of muscle building served us well, but 2026 marks a new er
 - Hornberger Lab, University of Wisconsin-Madison (2025). Mechanical Loading Induces the Longitudinal Growth of Skeletal Muscle Fibers. *bioRxiv* doi:10.1101/2025.09.19.676647
 - Herzog W, de Fontana HB (2022). Does eccentric exercise stimulate sarcomerogenesis? *J Sport Health Sci* 11:40-42
 - Rindom E, Vissing K. Mechanosensitive molecular networks involved in transducing resistance exercise-signals into muscle protein accretion. *J Appl Physiol*
+
+---
+
+*Track your hypertrophy with Jacked. Download now.*

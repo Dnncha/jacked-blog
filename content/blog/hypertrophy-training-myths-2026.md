@@ -1,6 +1,5 @@
 ---
 title: "Hypertrophy Training Myths: What Science Actually Says in 2026"
-date: "2026-02-16"
 excerpt: "We separate fact from fiction with the latest research on muscle building. No bro-science allowed."
 ---
 
@@ -92,3 +91,7 @@ The fitness industry profits from complexity. Simplicity works. Train consistent
 3. Optimal protein intake for muscle growth: A systematic review. *Journal of Nutrition*, 2025.
 4. Time under tension and hypertrophy: A systematic review. *International Journal of Sports Physiology*, 2025.
 5. Stretch-mediated hypertrophy: New mechanisms. *Journal of Applied Physiology*, 2026.
+
+---
+
+*Track your training with Jacked. Download now.*
